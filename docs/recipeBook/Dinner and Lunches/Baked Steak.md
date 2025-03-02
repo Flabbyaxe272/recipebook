@@ -1,5 +1,5 @@
 __Original Source__: Wassom Cookbook[^contrib]
-__Tags__: 
+__Tags__:  #beef 
 __Servings per Recipe__: 6
 __Description__: "A family favorite that's almost too good to be true!" Even though saying the name of this dish is a sin in the sight of the Grilling Gods, this is really amazing to taste. This dish keeps the steak juicy and delicious to enjoy.
 ***

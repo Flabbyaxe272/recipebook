@@ -1,5 +1,5 @@
 __Original Source__: 
-__Tags__: 
+__Tags__: #chicken #slowcooker
 __Servings per Recipe__:
 __Description__:
 [^footnotes]
