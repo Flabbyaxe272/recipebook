@@ -1,6 +1,6 @@
 site_name: "Family Recipe Book"
 theme:
-  name: "bootstrap"
+  name: "material"
   logo: "img/farrisfamrecipes.png"
   features:
     - navigation.tabs
