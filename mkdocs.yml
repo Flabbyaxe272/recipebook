@@ -1,7 +1,7 @@
-site_name: "Family Recipe Book"
+site_name: "Farris Family Recipe Book"
 theme:
   name: "mkdocs"
-  logo: "img/farrisfamrecipes.png"
+# custom_dir: "custom_theme/"  
   features:
     - navigation.tabs
     - navigation.top
@@ -22,9 +22,9 @@ nav:
   - Home: index.md
   - Categories: categories.md
   - Recipes:
-      - Breakfast: recipeBook/breakfast/index.md
-      - Dinner and Lunches: recipeBook/dinner-and-lunches/index.md
-      - Desserts: recipeBook/Desserts/index.md
-      - Sides: recipeBook/sides/index.md
+      - Breakfast: recipeBook/breakfast/
+      - Dinner and Lunches: recipeBook/dinner-and-lunches/
+      - Desserts: recipeBook/Desserts/
+      - Sides: recipeBook/sides/
   - Cooking Tips: tips.md
   - About: about.md
