@@ -1,11 +1,16 @@
+# Chicken and Dumplings
+
 __Original Source__: Bonnie Miller, Louisville, OH ^[From the *Fix-it and Forget-it: Instant Pot Comfort Food Cookbook* by Hope Comerford]
-__Tags__: #InstantPot #chicken 
+__Tags__: #InstantPot #chicken
 __Servings per Recipe__: 4
 __Description__:
 
 ***
-### Ingredients
-#### Chicken
+
+## Ingredients
+
+### Chicken
+
 - 1 Tbsp olive oil
 - 1 small onion, chopped
 - 2 celery ribs, cut into 1" pieces
@@ -16,11 +21,15 @@ __Description__:
 - 1 tsp salt
 - 1 tsp pepper
 - 1 tsp poultry seasoning
-#### Dumplings
+
+### Dumplings
+
 - 2 c. buttermilk biscuit mix
 - 1/2 c. plus 1 Tbsp milk
 - 1 tsp parsley
-***
-### Instructions:
-1. Set the Instant Pot to the Sauté  
 
+***
+
+## Instructions
+
+1. Set the Instant Pot to the Sauté  

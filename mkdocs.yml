@@ -18,12 +18,12 @@ theme:
         name: "Switch to dark mode"
 
 nav:
-  - Home: index.md
-  - Categories: categories.md
+  - Home: docs/index.md
+  - Categories: docs/categories.md
   - Recipes:
-      - Breakfast: recipes/breakfast/index.md
-      - Lunch: recipes/lunch/index.md
-      - Dinner: recipes/dinner/index.md
-      - Desserts: recipes/desserts/index.md
+      - Breakfast: docs/recipeBook/breakfast/index.md
+      - Dinner and Lunches: docs/recipeBook/dinner-and-lunches/index.md
+      - Desserts: docs/recipeBook/Desserts/index.md
+      - Sides: docs/recipeBook/sides/index.md
   - Cooking Tips: tips.md
   - About: about.md

@@ -1,9 +1,13 @@
+# Baked Steak
+
 __Original Source__: Wassom Cookbook[^contrib]
-__Tags__:  #beef 
+__Tags__:  #beef
 __Servings per Recipe__: 6
 __Description__: "A family favorite that's almost too good to be true!" Even though saying the name of this dish is a sin in the sight of the Grilling Gods, this is really amazing to taste. This dish keeps the steak juicy and delicious to enjoy.
 ***
-### Ingredients
+
+## Ingredients
+
 - 6 petite sirloin steaks[^steak]
 - 3 Tbsp Butter, melted
 - 1/2 c. Bottled chili sauce
@@ -12,13 +16,16 @@ __Description__: "A family favorite that's almost too good to be true!" Even tho
 - 1/2 c. Chopped onion
 
 - Mushroom Sauce
-	- 1 lb. Mushrooms, washed, trimmed, and sliced.[^mushroom]
-	- 2 Tbsp Butter
-	- 1 Tbsp Worcestershire sauce
-	- 1/4 c. Bottled chili sauce
-	- 1 c. heavy whipping cream
+  - 1 lb. Mushrooms, washed, trimmed, and sliced.[^mushroom]
+  - 2 Tbsp Butter
+  - 1 Tbsp Worcestershire sauce
+  - 1/4 c. Bottled chili sauce
+  - 1 c. heavy whipping cream
+
 ***
-### Instructions:
+
+## Instructions
+
 1. Turn on the oven to broil on high heat, and broil steak until seared on both sides.
 2. Combine the butter, chili sauces, Worcestershire, and onion.
 3. Pour mixture over steak and bake uncovered at 400° for about 25 minutes.[^time]

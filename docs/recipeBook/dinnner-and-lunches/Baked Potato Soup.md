@@ -1,11 +1,14 @@
+# Baked Potato Soup
+
 __Original Source__: Wassom Cookbook^[Contributed By: Lorri Findley, a dear friend]
 __Tags__: #potato #soup
-__Servings per Recipe__:
+__Servings per Recipe__: 6
 __Description__: Great fall (autumn) or winter meal served with rolls!
 
-
 ***
-### Ingredients
+
+## Ingredients
+
 - 4 large baking potatoes (about 3 lbs)
 - 2/3 c. butter
 - 2/3 c. flour
@@ -16,13 +19,16 @@ __Description__: Great fall (autumn) or winter meal served with rolls!
 - 1 bunch green onions
 - 10 bacon strips, cooked and crumbled
 - 1-2 c. shredded sharp cheddar cheese
+
 ***
-### Instructions:
+
+## Instructions
+
 1. Bake potatoes at 350° until done, and then let them cool completely. Easiest way to do this is to bake them the night prior.
 2. Peel and cube potatoes, then set aside
 <!-- Potentially try to peel, then bake, then cube.-->
-1. In large saucepan, melt butter. Then stir in flour, salt, and pepper until smooth. 
-2. Whisk in the milk and bring it to a boil. Cook and stir until thickened, then remove from heat. 
-3. Whisk in sour cream and return to medium heat. 
-4. Add potatoes, green onions, bacon, and cheese. 
+1. In large saucepan, melt butter. Then stir in flour, salt, and pepper until smooth.
+2. Whisk in the milk and bring it to a boil. Cook and stir until thickened, then remove from heat.
+3. Whisk in sour cream and return to medium heat.
+4. Add potatoes, green onions, bacon, and cheese.
 5. Garnish with more cheese and bacon, and serve hot!

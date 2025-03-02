@@ -1,24 +1,31 @@
+# Pork and Peanut Dragon Noodles
+
 __Original Source__: [Budget Bytes](https://www.budgetbytes.com/pork-peanut-dragon-noodles/)
 __Tags__: #pork #asian #ramen
 __Servings per Recipe__: 2
 __Description__: Rachel and I love this dish, due to it's flavor. We usually double batch it for leftovers
 
-
 ***
-### Ingredients
-**Dragon Sauce**
+
+## Ingredients
+
+### Dragon Sauce
+
 - 1/4 c. soy sauce
 - 1/4 c. chili garlic sauce
 - 1/4 c. brown sugar
 
-**Pork and Noodles**
+### Pork and Noodles
+
 - 1/2 lb. ground pork
 - 2 3oz. pkgs ramen noodles (discard the seasoning)
 - 3 green onions
 - 1/4 c. unsalted peanuts
 
 ***
-### Instructions:
+
+## Instructions
+
 1. Combine the chili garlic sauce, soy sauce, and brown sugar in a bowl.
 2. Add the ground pork to a skillet and cook over medium heat until it is fully browned*. Once browned, add the prepared dragon sauce and chopped peanuts. Allow the pork and peanuts to simmer in the sauce for another 5 minutes, or until the sauce has reduced by half.
 3. While the pork is browning, begin boiling water for your noodles. Once boiling, add your noodles and cook according to the package directions. Drain the noodles in a colander.
