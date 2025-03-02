@@ -1,6 +1,7 @@
 site_name: "Family Recipe Book"
 theme:
-  name: "material"
+  name: "bootstrap"
+  logo: "img/farrisfamrecipes.png"
   features:
     - navigation.tabs
     - navigation.top
@@ -18,12 +19,12 @@ theme:
         name: "Switch to dark mode"
 
 nav:
-  - Home: docs/index.md
-  - Categories: docs/categories.md
+  - Home: index.md
+  - Categories: categories.md
   - Recipes:
-      - Breakfast: docs/recipeBook/breakfast/index.md
-      - Dinner and Lunches: docs/recipeBook/dinner-and-lunches/index.md
-      - Desserts: docs/recipeBook/Desserts/index.md
-      - Sides: docs/recipeBook/sides/index.md
+      - Breakfast: recipeBook/breakfast/index.md
+      - Dinner and Lunches: recipeBook/dinner-and-lunches/index.md
+      - Desserts: recipeBook/Desserts/index.md
+      - Sides: recipeBook/sides/index.md
   - Cooking Tips: tips.md
   - About: about.md
