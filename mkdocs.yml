@@ -1,6 +1,6 @@
 site_name: "Family Recipe Book"
 theme:
-  name: "material"
+  name: "mkdocs"
   logo: "img/farrisfamrecipes.png"
   features:
     - navigation.tabs
