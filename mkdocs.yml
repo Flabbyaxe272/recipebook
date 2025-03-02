@@ -24,7 +24,7 @@ nav:
   - Recipes:
       - Breakfast: recipeBook/breakfast/
       - Dinner and Lunches: recipeBook/dinner-and-lunches/
-      - Desserts: recipeBook/Desserts/
+      - Desserts: recipeBook/desserts/
       - Sides: recipeBook/sides/
   - Cooking Tips: tips.md
   - About: about.md
