@@ -1,6 +1,11 @@
+# Vegetable Medley
+
 __Original Source__: Wassom Cookbook
+
 __Tags__: #Thanksgiving
+
 __Servings per Recipe__: 10
+
 __Description__:
 "This is one of our family staples for Thanksgiving." Rachel and I love it, and when we introduced it to the Farris family during Thanksgiving 2022, it was instantly a favorite. I think it's because of how unhealthy it is haha.
 
