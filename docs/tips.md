@@ -1,3 +1,3 @@
 # Tips and Tricks
 
-Some tips and tricks
+Will be building out soon.

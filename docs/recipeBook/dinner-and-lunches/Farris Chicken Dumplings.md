@@ -1,8 +1,11 @@
 # Farris Chicken Dumplings
 
 __Original Source__: Homemade
+
 __Tags__: #chicken #slowcooker
+
 __Servings per Recipe__:
+
 __Description__:
 [^footnotes]
 

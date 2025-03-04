@@ -1,8 +1,11 @@
 # Pork and Peanut Dragon Noodles
 
 __Original Source__: [Budget Bytes](https://www.budgetbytes.com/pork-peanut-dragon-noodles/)
+
 __Tags__: #pork #asian #ramen
+
 __Servings per Recipe__: 2
+
 __Description__: Rachel and I love this dish, due to it's flavor. We usually double batch it for leftovers
 
 ***

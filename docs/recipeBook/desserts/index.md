@@ -1,3 +1,3 @@
 # Dessert
 
-This is a heading for dessert.
+This is a landing page for dessert.

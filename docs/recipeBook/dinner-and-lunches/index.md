@@ -1,5 +1,5 @@
 # Dinner and Lunches
 
-This is a header fot his
+This is the Dinner Homepage, which also includes lunches.
 
-Let's try setting up a link: [Farris Stroganoff](Farris Stroganoff.md)
+Let's try setting up a link: [Farris Stroganoff](Farris%20Stroganoff.md)

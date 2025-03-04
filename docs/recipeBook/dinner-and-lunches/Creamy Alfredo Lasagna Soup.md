@@ -1,8 +1,11 @@
 # Creamy Alfredo Lasagna Soup
 
 __Original Source__: [Sophia from Creatives Cookery](https://creativescookery.com/creamy-alfredo-lasagna-soup-recipe/)
+
 __Tags__: #onepot #italian #soup
+
 __Servings per Recipe__: 6 servings
+
 __Description__: _This creamy Alfredo lasagna soup combines the comforting flavors of lasagna in a rich, velvety soup. With savory Italian sausage or ground chicken, tender lasagna noodles, and a cheesy Alfredo-style broth, it’s the ultimate cold-weather comfort food._
 
 ***
