@@ -21,6 +21,8 @@ __Description__: This came about because my parents liked to make breakfast burr
 - Cheese
 - Salt/pepper
 
+***
+
 ## Instructions
 
 1. Start with Shredded Hashbrowns, they take the longest.

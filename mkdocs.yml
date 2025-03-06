@@ -1,30 +1,51 @@
 site_name: "Farris Family Recipe Book"
 theme:
-  name: "mkdocs"
-# custom_dir: "custom_theme/"  
+  name: "material"
+# custom_dir: "custom_theme/"
+  icon:
+    logo: fontawesome/solid/spoon
+  favicon: img/spoon-solid.svg
   features:
     - navigation.tabs
     - navigation.top
+    - navigation.path
+    - navigation.indexes
     - search.suggest
     - search.highlight
   palette:
-    - scheme: default
-      primary: red
-      accent: deep-orange
-    - scheme: slate
-      primary: deep-purple
-      accent: pink
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/lightbulb-outline
-        name: "Switch to dark mode"
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: deep orange
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 
 nav:
   - Home: index.md
-  - Categories: categories.md
-  - Recipes:
-      - Breakfast: recipeBook/breakfast/
-      - Dinner and Lunches: recipeBook/dinner-and-lunches/
-      - Desserts: recipeBook/desserts/
-      - Sides: recipeBook/sides/
+  - Categories:
+      - categories/index.md
+      - Breakfast: 
+          - recipeBook/breakfast/index.md
+          - Dad's Train Wreck: recipeBook/breakfast/dads-train-wreck.md
+      - Dinner and Lunches: recipeBook/dinner-and-lunches/index.md
+      - Desserts: recipeBook/desserts/index.md
+      - Sides: recipeBook/sides/index.md
   - Cooking Tips: tips.md
   - About: about.md
