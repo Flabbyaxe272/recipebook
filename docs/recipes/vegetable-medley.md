@@ -39,6 +39,6 @@ __Description__:
 5. Bake at 350° for 15-20 minutes.[^time]
 
 [^cheese]: It needs to be Velveeta. No other processed cheese ends up having the consistency as Velveeta does.
-[^steam]: Momma Wassom steamed them in the microwave for 5 minutes - not completely done. This was intentional as you cook them more in the oven. 
+[^steam]: Momma Wassom steamed them in the microwave for 5 minutes - not completely done. This was intentional as you cook them more in the oven.
 [^melting]: Momma Wassom put the mixture in the microwave 2 minutes, stirred, then 1 minute at a time, stirring in between.
 [^time]: While the original recipe says 20-25 minutes, we need to adjust due to altitude. The recipe was created in Texas, closer to sea level at 630'. At the time of this writing, we're at 4,705', so a little higher :)

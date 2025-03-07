@@ -7,8 +7,6 @@ tags:
 
 __Original Source__:
 
-__Tags__:
-
 __Servings per Recipe__:
 
 __Description__:
