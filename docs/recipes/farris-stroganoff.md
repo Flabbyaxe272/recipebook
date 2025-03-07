@@ -1,8 +1,13 @@
+---
+tags:
+    - Beef
+    - Pasta
+    - Justin's Childhood
+---
+
 # Farris Stroganoff
 
 __Original Source__: Farris Family Recipes
-
-__Tags__: #beef #JustinsChildhood #pasta
 
 __Servings per Recipe__: 4
 

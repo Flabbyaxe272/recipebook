@@ -1,8 +1,13 @@
+---
+tags:
+    - Pork
+    - Asian
+    - Ramen
+---
+
 # Pork and Peanut Dragon Noodles
 
 __Original Source__: [Budget Bytes](https://www.budgetbytes.com/pork-peanut-dragon-noodles/)
-
-__Tags__: #pork #asian #ramen
 
 __Servings per Recipe__: 2
 

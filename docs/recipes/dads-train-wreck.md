@@ -1,8 +1,12 @@
+---
+tags:
+    - Farris Recipe
+    - Breakfast
+---
+
 # Dad's Train Wreck
 
 __Original Source__: Dad (Keith) Farris
-
-__Tags__: #breakfast
 
 __Servings per Recipe__: 6
 

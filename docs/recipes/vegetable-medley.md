@@ -1,3 +1,9 @@
+---
+tags:
+    - Thanksgiving
+    - Wassom Recipe
+---
+
 # Vegetable Medley
 
 __Original Source__: Wassom Cookbook
@@ -10,7 +16,8 @@ __Description__:
 "This is one of our family staples for Thanksgiving." Rachel and I love it, and when we introduced it to the Farris family during Thanksgiving 2022, it was instantly a favorite. I think it's because of how unhealthy it is haha.
 
 ***
-### Ingredients
+
+## Ingredients
 
 - 1/2 - 1 head Cauliflower
 - 2 heads Broccoli
@@ -20,8 +27,11 @@ __Description__:
 - 8 oz. Velveeta Cheese[^cheese]
 - 1 can Cream of Mushroom
 - French Fried Onions
+
 ***
-### Instructions:
+
+## Instructions
+
 1. Wash, chop, and steam cauliflower, broccoli, carrots, and onion.[^steam]
 2. Melt butter, Velveeta, and soup together until smooth.[^melting]
 3. Mix drained vegetables with cheese mixture and lay in 9"x13" baking dish.

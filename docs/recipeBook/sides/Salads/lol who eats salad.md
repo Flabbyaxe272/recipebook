@@ -1,3 +1,0 @@
-lol 
-
-who eats salad?

@@ -1,3 +1,10 @@
+---
+tags:
+    - Beef
+    - Soup
+    - Justin's Childhood
+---
+
 # Sager Soup
 
 __Original Source__: The Sager Family
@@ -13,7 +20,7 @@ __Description__: While it is quite simple, it's delicious and keeps well in Maso
 ## Ingredients
 
 - 5 potatoes, diced
-- 2 c. hamburger^[Alternatively 1 lb of hamburger]
+- 2 c. hamburger [^2]
 - 1/2 white onion, diced
 - 2 stalks of Celery, diced
 - 1 can evaporated milk
@@ -25,7 +32,7 @@ __Description__: While it is quite simple, it's delicious and keeps well in Maso
 
 ***
 
-### Instructions:[^original]
+### Instructions[^1]
 
 1. In a large pot, bring water to a boil and toss in the diced potato.
 2. While potato cooks, mix hamburger, onion and celery in bowl.
@@ -34,4 +41,6 @@ __Description__: While it is quite simple, it's delicious and keeps well in Maso
 5. Toss in hamburger into pot with potato and add evaporated milk, cream of mushroom, corn, thyme and garlic salt.
 6. Stir and add salt and pepper to taste.
 
-[^original]: Original instructions from Justin: "Just figure it out :)"
+[^1]: Original instructions from Justin: "Just figure it out :)"
+
+[^2]: Alternatively 1 lb of hamburger

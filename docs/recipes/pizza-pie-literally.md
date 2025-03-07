@@ -1,8 +1,12 @@
+---
+tags:
+    - Pizza
+    - Cast Iron
+---
+
 # Pizza Pie (Literally)
 
 __Original Source__: Keith Farris
-
-__Tags__: #pizza #castiron
 
 __Servings per Recipe__:
 

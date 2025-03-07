@@ -1,8 +1,15 @@
+---
+tags:
+    - Potato
+    - Soup
+    - Wassom Recipe
+---
+
 # Baked Potato Soup
 
-__Original Source__: Wassom Cookbook^[Contributed By: Lorri Findley, a dear friend]
+__Original Source__: Wassom Cookbook[^1]
 
-__Tags__: #potato #soup
+[^1]: Contributed By: Lorri Findley, a dear friend
 
 __Servings per Recipe__: 6
 

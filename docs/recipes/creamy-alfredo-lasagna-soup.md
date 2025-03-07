@@ -1,8 +1,13 @@
+---
+tags:
+    - One Pot
+    - Italian
+    - Soup
+---
+
 # Creamy Alfredo Lasagna Soup
 
 __Original Source__: [Sophia from Creatives Cookery](https://creativescookery.com/creamy-alfredo-lasagna-soup-recipe/)
-
-__Tags__: #onepot #italian #soup
 
 __Servings per Recipe__: 6 servings
 

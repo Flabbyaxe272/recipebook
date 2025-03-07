@@ -1,8 +1,14 @@
-# Home Page
+<!-- markdownlint-disable MD026 -->
+# Welcome to the Farris Family Recipe Book!
+<!-- markdownlint-disable MD026 -->
 
-Welcome to the Farris Family Recipe Book!
+![Family logo](img/farrisfamrecipes.png)
 
-This is an online collection of recipes that is meant to share! We find things from the internet or family recipes, and we put them as a collection here for ease of use.
+This is an online collection of recipes that is meant to be shared within the Farris Family and friends!
+
+We find things from the internet or family recipes, and we put them as a collection here for ease of use.
+
+Use the Recipes tab to browse, or search your favorites to get to them instantly!
 
 This is really helpful if you're cooking, and you don't have the counterspace for a recipe book.
 

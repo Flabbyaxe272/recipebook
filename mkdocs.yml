@@ -2,9 +2,11 @@ site_name: "Farris Family Recipe Book"
 theme:
   name: "material"
 # custom_dir: "custom_theme/"
+# Logo
   icon:
     logo: fontawesome/solid/spoon
   favicon: img/spoon-solid.svg
+# Features
   features:
     - navigation.tabs
     - navigation.top
@@ -12,6 +14,7 @@ theme:
     - navigation.indexes
     - search.suggest
     - search.highlight
+    - content.footnote.tooltips
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -37,15 +40,27 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+
+# Extentions
+markdown_extensions:
+  - footnotes
+
+# Plug-ins
+plugins:
+  - meta:
+      enabled: true
+  - search
+  - tags:
+      enabled: true
+      tags: true
+      tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+
 nav:
-  - Home: index.md
-  - Categories:
-      - categories/index.md
-      - Breakfast: 
-          - recipeBook/breakfast/index.md
-          - Dad's Train Wreck: recipeBook/breakfast/dads-train-wreck.md
-      - Dinner and Lunches: recipeBook/dinner-and-lunches/index.md
-      - Desserts: recipeBook/desserts/index.md
-      - Sides: recipeBook/sides/index.md
+  - Home: 
+      - index.md
+      - Recipes: recipes/index.md
   - Cooking Tips: tips.md
   - About: about.md

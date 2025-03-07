@@ -1,8 +1,12 @@
+---
+tags:
+    - Wassom Recipe
+    - Beef
+---
+
 # Baked Steak
 
 __Original Source__: Wassom Cookbook[^contrib]
-
-__Tags__:  #beef
 
 __Servings per Recipe__: 6
 
@@ -12,6 +16,8 @@ __Description__: "A family favorite that's almost too good to be true!" Even tho
 
 ## Ingredients
 
+### Steaks
+
 - 6 petite sirloin steaks[^steak]
 - 3 Tbsp Butter, melted
 - 1/2 c. Bottled chili sauce
@@ -19,12 +25,13 @@ __Description__: "A family favorite that's almost too good to be true!" Even tho
 - 3 Tbsp Worcestershire sauce
 - 1/2 c. Chopped onion
 
-- Mushroom Sauce
-  - 1 lb. Mushrooms, washed, trimmed, and sliced.[^mushroom]
-  - 2 Tbsp Butter
-  - 1 Tbsp Worcestershire sauce
-  - 1/4 c. Bottled chili sauce
-  - 1 c. heavy whipping cream
+### Mushroom Sauce
+
+- 1 lb. Mushrooms, washed, trimmed, and sliced.[^mushroom]
+- 2 Tbsp Butter
+- 1 Tbsp Worcestershire sauce
+- 1/4 c. Bottled chili sauce
+- 1 c. heavy whipping cream
 
 ***
 

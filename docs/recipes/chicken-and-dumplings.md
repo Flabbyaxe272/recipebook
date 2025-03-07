@@ -1,8 +1,14 @@
+---
+tags:
+    - Chicken
+    - Instant Pot
+---
+
 # Chicken and Dumplings
 
-__Original Source__: Bonnie Miller, Louisville, OH ^[From the *Fix-it and Forget-it: Instant Pot Comfort Food Cookbook* by Hope Comerford]
+__Original Source__: Bonnie Miller, Louisville, OH [^1]
 
-__Tags__: #InstantPot #chicken
+[^1]: From the *Fix-it and Forget-it: Instant Pot Comfort Food Cookbook* by Hope Comerford
 
 __Servings per Recipe__: 4
 
