@@ -34,9 +34,9 @@ __Description__:
 
 1. Wash, chop, and steam cauliflower, broccoli, carrots, and onion.[^steam]
 2. Melt butter, Velveeta, and soup together until smooth.[^melting]
-3. Mix drained vegetables with cheese mixture and lay in 9"x13" baking dish.
+3. Mix drained vegetables with cheese mixture and lay in 9"&times;13" baking dish.
 4. Sprinkle french fried onions on top
-5. Bake at 350° for 15-20 minutes.[^time]
+5. Bake at 350&deg;F for 15-20 minutes.[^time]
 
 [^cheese]: It needs to be Velveeta. No other processed cheese ends up having the consistency as Velveeta does.
 [^steam]: Momma Wassom steamed them in the microwave for 5 minutes - not completely done. This was intentional as you cook them more in the oven.
