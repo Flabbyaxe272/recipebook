@@ -23,11 +23,11 @@ __Description__: A great family recipe, which was commonly made in the Farris ho
 - 3 Tbsp butter
 - 2 Tbsp fresh onion
 - 1 Tbsp garlic
-- 1 1/2 c. apple juice
-- 1/2 tsp salt
-- 1/2 tsp Italian seasoning
-- 1/4 tsp crushed red pepper
-- 1/4 tsp black pepper
+- 1 &frac12; c. apple juice
+- &frac12; tsp salt
+- &frac12; tsp Italian seasoning
+- &frac14; tsp crushed red pepper
+- &frac14; tsp black pepper
 - 2 tsp parsley
 - 1 c. heavy cream
 

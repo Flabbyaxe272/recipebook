@@ -34,7 +34,7 @@ __Description__:
 ### Dumplings
 
 - 2 c. buttermilk biscuit mix
-- 1/2 c. plus 1 Tbsp milk
+- &frac12; c. plus 1 Tbsp milk
 - 1 tsp parsley
 
 ***

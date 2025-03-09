@@ -3,6 +3,7 @@ tags:
     - Beef
     - Soup
     - Justin's Childhood
+    - Potato
 ---
 
 # Sager Soup
@@ -21,7 +22,7 @@ __Description__: While it is quite simple, it's delicious and keeps well in Maso
 
 - 5 potatoes, diced
 - 2 c. hamburger [^2]
-- 1/2 white onion, diced
+- &frac12; white onion, diced
 - 2 stalks of Celery, diced
 - 1 can evaporated milk
 - 1 can Cream of Mushroom

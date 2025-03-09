@@ -21,14 +21,14 @@ __Description__: _This creamy Alfredo lasagna soup combines the comforting flavo
 - 1 small onion, diced
 - 3 cloves garlic, minced
 - 1 lb ground chicken or Italian sausage
-- 4 cups chicken broth
-- 2 cups heavy cream
-- 1 1/2 cups marinara sauce
+- 4 c. chicken broth
+- 2 c. heavy cream
+- 1 &frac12; c. marinara sauce
 - 8 lasagna noodles, broken into pieces
 - 1 tsp Italian seasoning
 - Salt and black pepper, to taste
-- 1 cup grated Parmesan cheese
-- 1 cup shredded mozzarella cheese
+- 1 c. grated Parmesan cheese
+- 1 c. shredded mozzarella cheese
 - Fresh basil or parsley, chopped (for garnish)
 - Optional: Red pepper flakes, to taste
 

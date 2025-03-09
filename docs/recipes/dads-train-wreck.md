@@ -20,7 +20,7 @@ __Description__: This came about because my parents liked to make breakfast burr
 - 4 Tbsp butter
 - 1 lb bacon
 - 1 lb breakfast Sausage^[Original recipie calls for Jimmy Dean brand]
-- 1/2 lg Onion
+- &frac12; lg Onion
 - 6 Eggs
 - Cheese
 - Salt/pepper

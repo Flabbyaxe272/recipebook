@@ -20,17 +20,17 @@ __Description__: "A family favorite that's almost too good to be true!" Even tho
 
 - 6 petite sirloin steaks[^steak]
 - 3 Tbsp Butter, melted
-- 1/2 c. Bottled chili sauce
-- 1/2 c. Chili garlic sauce[^cgs]
+- &frac12; c. Bottled chili sauce
+- &frac12; c. Chili garlic sauce[^cgs]
 - 3 Tbsp Worcestershire sauce
-- 1/2 c. Chopped onion
+- &frac12; c. Chopped onion
 
 ### Mushroom Sauce
 
 - 1 lb. Mushrooms, washed, trimmed, and sliced.[^mushroom]
 - 2 Tbsp Butter
 - 1 Tbsp Worcestershire sauce
-- 1/4 c. Bottled chili sauce
+- &frac14; c. Bottled chili sauce
 - 1 c. heavy whipping cream
 
 ***

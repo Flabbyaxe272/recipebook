@@ -19,11 +19,11 @@ __Description__:
 
 ## Ingredients
 
-- 1/2 - 1 head Cauliflower
+- &frac12; - 1 head Cauliflower
 - 2 heads Broccoli
 - 5 Carrots
-- 1/2 lg Onion
-- 1/4 c. Butter
+- &frac12; lg Onion
+- &frac14; c. Butter
 - 8 oz. Velveeta Cheese[^cheese]
 - 1 can Cream of Mushroom
 - French Fried Onions

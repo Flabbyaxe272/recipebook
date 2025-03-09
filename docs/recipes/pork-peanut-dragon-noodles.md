@@ -3,6 +3,7 @@ tags:
     - Pork
     - Asian
     - Ramen
+    - Peanut
 ---
 
 # Pork and Peanut Dragon Noodles
@@ -19,16 +20,16 @@ __Description__: Rachel and I love this dish, due to it's flavor. We usually dou
 
 ### Dragon Sauce
 
-- 1/4 c. soy sauce
-- 1/4 c. chili garlic sauce
-- 1/4 c. brown sugar
+- &frac14; c. soy sauce
+- &frac14; c. chili garlic sauce
+- &frac14; c. brown sugar
 
 ### Pork and Noodles
 
-- 1/2 lb. ground pork[^pork]
+- &frac12; lb. ground pork[^pork]
 - 2 3oz. pkgs ramen noodles (discard the seasoning)
 - 3 green onions
-- 1/4 c. unsalted peanuts
+- &frac14; c. unsalted peanuts
 
 ***
 

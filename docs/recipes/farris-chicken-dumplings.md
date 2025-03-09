@@ -19,7 +19,7 @@ __Description__: Homemade recipe by Justin and Rachel
 - 2 chicken breast's
 - 1 pkg of baby carrots
 - 3 stalks of celery
-- 2 1/2 c. Chicken broth
+- 2 &frac12; c. Chicken broth
 - 2 Tbsp dried onion
 - sprinkle of thyme
 - 1 tsp of garlic

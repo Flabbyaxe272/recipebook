@@ -18,11 +18,11 @@ __Description__: Justin's Favorite Soup. Still has it for his birthday (in July)
 
 ## Ingredients
 
-- 1/2 - 1 lb bacon
+- &frac12; - 1 lb bacon
 - 1 lb Italian sausage
 - 1 white onion
 - 2 tsp garlic
-- 1/2 tsp crushed red pepper flakes
+- &frac12; tsp crushed red pepper flakes
 - 3 large russett potatoes, washed
 - 12 c. water
 - 1 tsp salt
@@ -38,6 +38,6 @@ __Description__: Justin's Favorite Soup. Still has it for his birthday (in July)
 2. While bacon cooks, add and cook italian sausage in a large pot (5 qt preferred), then add onion, garlic, and crushed red pepper flakes. Cook until fragrant.
 3. Slice potatoes into thin rounds, and add to pot.
 4. Add water, salt, and bullion, and bring to a boil.
-5. Cook on high until potatoes are done.
+5. Cook on high until potatoes are tender.
 6. Take off heat, add heavy cream and kale
 7. Serve hot with garlic breadsticks.

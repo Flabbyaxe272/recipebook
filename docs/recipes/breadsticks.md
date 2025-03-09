@@ -17,11 +17,11 @@ __Description__: The original name of this recipe was "Rick's College Breadstick
 ## Ingredients
 
 - 1 Tbsp active dry yeast
-- 1 1/2 c. water
+- 1 &frac12; c. water
 - Honey
-- 3 1/2 c. flour
-- 3/4 tsp salt
-- 1/4 c. butter (melted)
+- 3 &frac12; c. flour
+- &frac34; tsp salt
+- &frac14; c. butter (melted)
 
 ### Optional
 

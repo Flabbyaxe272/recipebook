@@ -21,8 +21,8 @@ __Description__: A Farris family staple; it's been a wonderful dinner to make an
 - 2 c. cooked rice
 - 1 c. broccoli[^broccoli]
 - 2 chicken breasts, cubed
-- 1/8 c. butter
-- 1/2 c. onion, chopped
+- &frac18; c. butter
+- &frac12; c. onion, chopped
 - 2 cans cream of chicken
 - 1 can milk
 - 1 c. cheddar cheese[^cheese]

@@ -1,6 +1,12 @@
+---
+title: Farris Fam Recipes
+---
+
 <!-- markdownlint-disable MD026 -->
+<!-- markdownlint-disable MD025 -->
 # Welcome to the Farris Family Recipe Book!
 <!-- markdownlint-disable MD026 -->
+<!-- markdownlint-disable MD025 -->
 
 ![Family logo](img/farrisfamrecipes.png)
 
