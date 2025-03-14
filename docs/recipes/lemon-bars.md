@@ -32,4 +32,4 @@ __Description__: Justin has always bragged about how good these lemon bars are. 
 3. In another bowl, whisk remaining 1 &frac12; c. sugar and &frac14; c. flour with eggs and lemon juice. Add lemon juice to taste.
 4. Pour lemon mixture over the baked crust, making sure it's evenly coated.
 5. Bake for 20 minutes and remove from oven. Bars will firm up as they cool in the open air.
-6. Cut bars to size and dust w/ powdered sugar.
+6. Cut bars to size and dust with powdered sugar.

@@ -8,11 +8,11 @@ tags:
 
 # Chicken Scampi
 
-__Original Source__:
+__Original Source__: Aunt Reina (Hanson)
 
 __Servings per Recipe__: 6
 
-__Description__: A great family recipe, which was commonly made in the Farris household. While most enjoy with angel hair pasta, Justin found better enjoyment and consistency from linguine.
+__Description__: A great family recipe, which was commonly made in the Farris household. An adaptation of the Olive Garden Chicken Scampi. While most enjoy with angel hair pasta, Justin found better enjoyment and consistency from linguine.
 
 ***
 

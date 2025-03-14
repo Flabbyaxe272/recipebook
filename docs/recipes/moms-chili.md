@@ -5,11 +5,11 @@ tags:
 
 # Mom's Chili
 
-__Original Source__: Mom (Debbie) Farris
+__Original Source__: Grandma Eula Hanson
 
 __Servings per Recipe__: ??
 
-__Description__: I know Mom made this often and Dad made a variation that's really spicy for Chili cookoffs by adding Ghost pepper seasoning and letting it just simmer for 12 hours.
+__Description__: I know Mom made this often and Dad made a variation that's really spicy for Chili cookoffs by adding Ghost pepper seasoning and letting it just simmer for 12 hours. The recipe has been edited to adjust for what is actually used as of late.
 
 ***
 
@@ -18,8 +18,8 @@ __Description__: I know Mom made this often and Dad made a variation that's real
 - 1 lb hamburger
 - Diced onion
 - 2 cans tomato sauce
-- 1 can beans (pinto or kidney)
-- 1 pkg McCormick chili seasoning
+- 2 can beans (pinto or kidney)
+- 2 cans of chili
 
 ***
 
