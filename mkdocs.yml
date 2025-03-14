@@ -64,6 +64,6 @@ plugins:
 nav:
   - Home:
       - index.md
-      - Recipes: recipes/index.md
+  - Recipes: recipes/index.md
   - Cooking Tips: tips.md
   - About: about.md
