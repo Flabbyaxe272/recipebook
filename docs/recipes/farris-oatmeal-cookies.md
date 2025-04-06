@@ -9,9 +9,9 @@ tags:
 
 __Original Source__: Better Home & Gardens (1996)
 
-__Servings per Recipe__:
+__Servings per Recipe__: 
 
-__Description__:
+__Description__: Some of the best oatmeal cookies you'll ever have. Soft, flavorful. Really just the best.
 
 ***
 

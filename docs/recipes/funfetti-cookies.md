@@ -2,7 +2,7 @@
 tags:
     - Dessert
     - Farris Recipe
-    - cookies
+    - Cookies
 ---
 
 # Funfetti Cookies
