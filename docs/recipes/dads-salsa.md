@@ -1,6 +1,7 @@
 ---
 tags:
     - Side
+    - Farris Recipe
 ---
 
 # Dad's Homemade Salsa
