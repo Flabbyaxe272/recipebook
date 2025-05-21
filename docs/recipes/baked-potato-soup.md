@@ -22,8 +22,8 @@ __Description__: Great fall (autumn) or winter meal served with rolls!
 - 4 large baking potatoes (about 3 lbs)
 - &frac23; c. butter
 - &frac23; c. flour
-- &frac34; tsp. salt
-- &frac12; tsp. pepper
+- &frac34; tsp salt
+- &frac12; tsp pepper
 - 6 c. milk
 - 8 oz. sour cream
 - 1 bunch green onions

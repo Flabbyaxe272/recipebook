@@ -18,7 +18,7 @@ __Description__: Though rarely made, is one of Justin's favorites dishes. Hasn't
 
 - Cooking spray
 - 3 Tbsp unsalted butter
-- 1 cup chopped onion
+- 1 c. chopped onion
 - 1 &frac12; Tbsp minced garlic
 - 1 lb smoked sausage, cut in ¼” slices
 - 1 lb smoked, low-sodium ham, diced
@@ -26,11 +26,11 @@ __Description__: Though rarely made, is one of Justin's favorites dishes. Hasn't
 - 2 bay leaves
 - 2 Tbsp cajun seasoning (low-salt)
 - 1 tsp gumbo file seasoning
-- 1 cup chopped celery
-- &frac12; cup tomato sauce (4 oz)
+- 1 c. chopped celery
+- &frac12; c. tomato sauce (4 oz)
 - 1 can diced tomatoes (12 oz)
-- 2 &frac12; cups chicken broth (20 oz)
-- 1 &frac12; cups uncooked, long-grain rice (non-sticky)
+- 2 &frac12; c. chicken broth (20 oz)
+- 1 &frac12; c. uncooked, long-grain rice (non-sticky)
 
 ***
 

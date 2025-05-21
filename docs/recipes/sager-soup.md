@@ -38,7 +38,7 @@ __Description__: While it is quite simple, it's delicious and keeps well in Maso
 1. In a large pot, bring water to a boil and toss in the diced potato.
 2. While potato cooks, mix hamburger, onion and celery in bowl.
 3. After mixing, throw into a non-stick pan, and cook hamburger thoroughly.
-4. Cook until the potato is firm and drain until there is a cup of water left in the bottom.
+4. Cook until the potato is firm and drain until there is a c. of water left in the bottom.
 5. Toss in hamburger into pot with potato and add evaporated milk, cream of mushroom, corn, thyme and garlic salt.
 6. Stir and add salt and pepper to taste.
 

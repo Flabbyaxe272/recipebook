@@ -23,9 +23,9 @@ __Description__: One of the easiest and sweetest syrups I've had. It's also the 
 
 ### Part 2
 
-- 1 tsp. Vanilla
-- 1 tsp. Baking soda
-- 1 tsp. Maple flavoring
+- 1 tsp Vanilla
+- 1 tsp Baking soda
+- 1 tsp Maple flavoring
 
 ***
 

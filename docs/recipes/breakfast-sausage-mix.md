@@ -18,15 +18,15 @@ __Description__: Need a Meat Grinder.
 
 - 2 pounds pork butt (2 &frac12; pounds with bone), diced into 1/4-inch pieces  
 - &frac12; pound fat back, diced into 1/4-inch pieces  
-- 2 teaspoons kosher salt  
-- 1 &frac12; teaspoons freshly ground black pepper  
-- 2 teaspoons finely chopped fresh sage leaves  
-- 2 teaspoons finely chopped fresh thyme leaves  
-- &frac12; teaspoon finely chopped fresh rosemary leaves  
-- 1 tablespoon light brown sugar  
-- &frac12; teaspoon fresh grated nutmeg  
-- &frac12; teaspoon cayenne pepper  
-- &frac12; teaspoon red pepper flakes  
+- 2 tsp kosher salt  
+- 1 &frac12; tsp freshly ground black pepper  
+- 2 tsp finely chopped fresh sage leaves  
+- 2 tsp finely chopped fresh thyme leaves  
+- &frac12; tsp finely chopped fresh rosemary leaves  
+- 1 Tbsp light brown sugar  
+- &frac12; tsp fresh grated nutmeg  
+- &frac12; tsp cayenne pepper  
+- &frac12; tsp red pepper flakes  
 
 ### Dad Farris’ Touch
 
@@ -41,5 +41,5 @@ __Description__: Need a Meat Grinder.
 2. Using the fine blade of a grinder, grind the pork.  
 3. Form into 1-inch rounds.  
 4. Refrigerate and use within 1 week or freeze for up to 3 months.  
-5. For immediate use, sauté patties over medium-low heat in a non-stick pan.  
-6. Sauté until brown and cooked through, approximately 10 to 15 minutes.  
+5. For immediate use, saut&#233; patties over medium-low heat in a non-stick pan.  
+6. Saut&#233; until brown and cooked through, approximately 10 to 15 minutes.  

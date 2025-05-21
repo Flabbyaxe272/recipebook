@@ -16,10 +16,10 @@ __Description__: I don't remember this recipe but knowing that Grandpa Hanson se
 ## Ingredients
 
 - 6 eggs  
-- 1 cup milk  
-- 1 cup flour  
+- 1 c. milk  
+- 1 c. flour  
 - Pinch of salt  
-- 6 tablespoons butter  
+- 6 Tbsp butter  
 
 ***
 

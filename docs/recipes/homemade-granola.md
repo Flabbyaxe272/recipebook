@@ -7,7 +7,7 @@ tags:
 
 __Original Source__: [CDKitchen](https://www.cdkitchen.com/recipes/recs/146/Homemade_Granola38838.shtml)
 
-__Servings per Recipe__: 7 cups
+__Servings per Recipe__: 7 c.
 
 __Description__: A delicious homemade granola recipe that can be eaten as a snack, mixed with yogurt for breakfast, used as an ice cream topping, or in any recipe calling for granola. Takes about 1-2 hours to make.
 
@@ -15,16 +15,16 @@ __Description__: A delicious homemade granola recipe that can be eaten as a snac
 
 ## Ingredients
 
-- &frac14; cup vegetable oil  
-- &frac14; cup honey  
-- 1 teaspoon vanilla  
-- 4 cups old-fashioned oats  
-- 1 &frac12; cups sliced almonds  
-- &frac12; cup packed light brown sugar  
-- &frac12; teaspoon salt  
-- &frac12; teaspoon ground cinnamon  
-- 1 &frac12; cups raisins or dried cranberries  
-- 1 cup miniature chocolate chips (optional)  
+- &frac14; c. vegetable oil  
+- &frac14; c. honey  
+- 1 tsp vanilla  
+- 4 c. old-fashioned oats  
+- 1 &frac12; c. sliced almonds  
+- &frac12; c. packed light brown sugar  
+- &frac12; tsp salt  
+- &frac12; tsp ground cinnamon  
+- 1 &frac12; c. raisins or dried cranberries  
+- 1 c. miniature chocolate chips (optional)  
 
 ***
 

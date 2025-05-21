@@ -44,7 +44,7 @@ __Description__: A great family recipe, which was commonly made in the Farris ho
 
 ### Sauce
 
-1. In a large saucepan, melt butter, and add in onion and garlic. Saute for about 30 seconds or until fragrant.
+1. In a large saucepan, melt butter, and add in onion and garlic. Saut&#233; for about 30 seconds or until fragrant.
 2. Add apple juice, salt, crushed red pepper, and pepper. Bring to a low boil and reduce by half.
 3. After reducing, add parsley and heavy cream to the sauce and set aside.
 

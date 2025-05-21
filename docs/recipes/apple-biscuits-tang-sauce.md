@@ -8,7 +8,7 @@ tags:
 
 __Original Source__: Better Homes & Gardens (1996)
 
-__Servings per Recipe__:
+__Servings per Recipe__: Unknown
 
 __Description__: Madison's favorite, and often a great Easter Breakfast. Tart green apple chunks in a biscuit with an sweet orange glaze covering the biscuit. Often, we just eat the orange glaze. :laughing:
 

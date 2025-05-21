@@ -20,11 +20,11 @@ __Description__: Found on the Google Drive. Honestly, is a simple great recipe t
 
 - 1 box of lasagna noodles
 - 1 lb ground italian sausage (or hamburger)
-- &frac14; cup yellow onion, diced
+- &frac14; c. yellow onion, diced
 - 1 can tomato sauce
 - Some sugar
 - Some basil
-- 2 cups cottage cheese (or ricotta)
+- 2 c. cottage cheese (or ricotta)
 - 1 lb shredded mozzarella cheese (divided) between the cheese mixture & top layer
 - Parsley flakes
 

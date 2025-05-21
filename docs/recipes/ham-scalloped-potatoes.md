@@ -1,7 +1,7 @@
 ---
 tags:
     - Pork
-    - Potatoes
+    - Potato
     - Dinner
     - Farris Recipe
 ---

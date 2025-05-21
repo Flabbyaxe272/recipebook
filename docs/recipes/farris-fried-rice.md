@@ -17,7 +17,7 @@ __Description__: Simple recipe, great flavor! Adjust to your preferences. Justin
 
 ## Ingredients
 
-- 2-3 cups cooked rice[^rice]
+- 2-3 c. cooked rice[^rice]
 - 2 Tbsp oil
 - 1 Tbsp minced garlic
 - Diced green onions

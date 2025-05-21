@@ -16,13 +16,13 @@ __Description__: This waffle recipe is the only one you'll need to make homemade
 ## Ingredients
 
 - 2 large eggs
-- 2 cups all-purpose flour
-- 1 &frac34; cups milk
-- &frac12; cup vegetable oil
-- 1 tablespoon white sugar
-- 4 teaspoons baking powder
-- &frac14; teaspoon salt
-- &frac12; teaspoon vanilla extract
+- 2 c. all-purpose flour
+- 1 &frac34; c. milk
+- &frac12; c. vegetable oil
+- 1 Tbsp white sugar
+- 4 tsp baking powder
+- &frac14; tsp salt
+- &frac12; tsp vanilla extract
 - nonstick cooking spray
 
 ***

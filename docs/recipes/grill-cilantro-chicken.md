@@ -18,14 +18,14 @@ __Description__: This is the most tender and most flavorful chicken you will eve
 ## Ingredients
 
 - 2 pounds boneless, skinless chicken breasts
-- 1/4 cup lime juice, freshly-squeezed
-- 1/2 cup honey
-- 2 tablespoons soy sauce
-- 1 tablespoon olive oil
+- 1/4 c. lime juice, freshly-squeezed
+- 1/2 c. honey
+- 2 Tbsp soy sauce
+- 1 Tbsp olive oil
 - 2 cloves garlic, minced or pressed
-- 1/2 cup cilantro, chopped
-- 1/2 teaspoon salt
-- 1/4 teaspoon pepper
+- 1/2 c. cilantro, chopped
+- 1/2 tsp salt
+- 1/4 tsp pepper
 
 ***
 

@@ -40,7 +40,7 @@ __Description__: "A family favorite that's almost too good to be true!" Even tho
 1. Turn on the oven to broil on high heat, and broil steak until seared on both sides.
 2. Combine the butter, chili sauces, Worcestershire, and onion.
 3. Pour mixture over steak and bake uncovered at 400&deg; for about 25 minutes.[^time]
-4. While steak is baking, sauté the mushroom in butter for 2 minutes, until lightly browned.
+4. While steak is baking, saut&#233; the mushroom in butter for 2 minutes, until lightly browned.
 5. Add the Worcestershire, chili sauce and cream.
 6. Cook mushroom sauce over medium heat until lightly thickened, about 15 minutes.
 7. After baking, let the steak stand for 2 minutes.

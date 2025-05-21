@@ -18,21 +18,21 @@ __Description__: Used to be a great easter tradition and was very tasty to have 
 
 ### Buns
 
-- &frac14; cup warm water  
+- &frac14; c. warm water  
 - 1 package active dry yeast  
-- 1 cup milk, warmed  
-- &frac13; cup sugar  
-- &frac12; cup shortening  
-- 1 teaspoon salt  
+- 1 c. milk, warmed  
+- &frac13; c. sugar  
+- &frac12; c. shortening  
+- 1 tsp salt  
 - 2 eggs, beaten  
-- &frac14; cup orange juice  
-- 5 &frac12; cups flour  
+- &frac14; c. orange juice  
+- 5 &frac12; c. flour  
 
 ### Glaze
 
-- 2 cups powdered sugar  
-- &frac14; cup hot water  
-- 1 teaspoon butter
+- 2 c. powdered sugar  
+- &frac14; c. hot water  
+- 1 tsp butter
 
 ***
 

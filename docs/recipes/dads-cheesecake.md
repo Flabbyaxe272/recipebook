@@ -16,16 +16,16 @@ __Description__: This is often a family favorite. Almost everyone loves the chee
 
 ## Ingredients
 
-- 1 &frac34; cups finely crushed graham crackers (or Biscoff cookies)
+- 1 &frac34; c. finely crushed graham crackers (or Biscoff cookies)
 - &frac12; tsp ground cinnamon
-- &frac12; cup butter, melted
+- &frac12; c. butter, melted
 - 3 8-oz pkgs cream cheese, softened to room temp
-- 1 cup sugar
+- 1 c. sugar
 - 2 Tbsp flour
 - 1 tsp vanilla
 - 2 eggs
 - 1 egg yolk
-- &frac14; cup milk
+- &frac14; c. milk
 
 ***
 

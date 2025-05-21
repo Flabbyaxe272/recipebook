@@ -37,7 +37,7 @@ __Description__: _This creamy Alfredo lasagna soup combines the comforting flavo
 ### Instructions
 
 1. __Cook the Meat__: In a large pot or Dutch oven, heat the olive oil over medium heat. Add the ground chicken or Italian sausage and cook until browned, breaking it into small pieces with a spatula. Drain excess fat if needed.
-2. __Sauté Aromatics__: Add the diced onion and minced garlic to the pot with the cooked meat. Sauté for 3–4 minutes, or until the onion becomes translucent and fragrant.
+2. __Saut&#233; Aromatics__: Add the diced onion and minced garlic to the pot with the cooked meat. Saut&#233; for 3–4 minutes, or until the onion becomes translucent and fragrant.
 3. __Add Broth and Sauces__: Pour in the chicken broth, heavy cream, and marinara sauce, stirring well to combine. Add the Italian seasoning, salt, and black pepper. Bring the mixture to a gentle boil.
 4. __Cook the Noodles__: Add the broken lasagna noodles to the pot, making sure they are submerged in the liquid. Simmer for 10–12 minutes, or until the noodles are tender.
 5. __Add Cheese__: Reduce the heat to low. Stir in the grated Parmesan cheese until melted and creamy. Add the shredded mozzarella cheese and stir until smooth.

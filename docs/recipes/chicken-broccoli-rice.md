@@ -38,7 +38,7 @@ __Description__: A Farris family staple; it's been a wonderful dinner to make an
 
 1. Cook rice, broccoli, and chicken, seperately.
 2. Preheat oven to 350&deg;F.
-3. In a large saucepan, melt butter and saute onion until cooked.
+3. In a large saucepan, melt butter and saut&#233; onion until cooked.
 4. Mix in soup and milk with onion.
 5. Add all ingredients to a greased 9"&times;13" pan and mix together. Even out the surface.
 6. Layer cheese and then saltines on top. Bake for 30 minutes.

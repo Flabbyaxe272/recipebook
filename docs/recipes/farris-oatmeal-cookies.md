@@ -9,7 +9,7 @@ tags:
 
 __Original Source__: Better Home & Gardens (1996)
 
-__Servings per Recipe__: 
+__Servings per Recipe__: Unknown
 
 __Description__: Some of the best oatmeal cookies you'll ever have. Soft, flavorful. Really just the best.
 
@@ -17,16 +17,16 @@ __Description__: Some of the best oatmeal cookies you'll ever have. Soft, flavor
 
 ## Ingredients
 
-- &frac34; cup butter
-- 1 cup brown sugar
-- &frac12; cup sugar
+- &frac34; c. butter
+- 1 c. brown sugar
+- &frac12; c. sugar
 - 1 tsp baking powder
 - &frac14; tsp baking soda
 - &frac12; tsp ground cinnamon
 - 2 eggs
 - 1 tsp vanilla
-- 1 &frac34; cups flour
-- 2 cups oats
+- 1 &frac34; c. flour
+- 2 c. oats
 
 ***
 

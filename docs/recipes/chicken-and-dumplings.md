@@ -2,6 +2,8 @@
 tags:
     - Chicken
     - Instant Pot
+    - Soup
+    - Dinner
 ---
 
 # Chicken and Dumplings
@@ -12,7 +14,7 @@ __Original Source__: Bonnie Miller, Louisville, OH [^1]
 
 __Servings per Recipe__: 4
 
-__Description__:
+__Description__: Real quick and easy comfort food, if you have an Instant Pot.
 
 ***
 
@@ -41,4 +43,10 @@ __Description__:
 
 ## Instructions
 
-1. Set the Instant Pot to the Sauté  
+1. Set the Instant Pot to the Saut&#233; function and heat with olive oil.
+2. Add the onion, celery, and carrots to the pot and saut&#233; for 3 to 5 minutes.
+3. Pour in the broth and scrape the bottom of the inner pot with a wooden spoon or spatula to deglaze. Press Cancel.
+4. Add the chicken, bullion, salt, pepper, and poultry seasoning.
+5. Combine the dumpling ingredients in a bowl until just moistened. Drop 2-Tbsp mounds in the contents of the inner pot, as evenly spaced as possible.
+6. Secure the lid and set the vent to sealing. Manually set the cook time for 3 minutes.
+7. When the cook time is over, manually release the pressure. Serve while hot.

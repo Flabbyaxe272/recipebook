@@ -19,11 +19,11 @@ __Description__: A Farris Family favorite, always paired with some good meat smo
 
 - 64 oz bag of frozen shredded hash browns (or cubed)
 - 2 (10 &frac34; oz) cans Cream of Chicken soup
-- 2 cups sour cream
-- 1 &frac12; cups grated, sharp cheddar cheese
-- &frac12; cup melted butter
-- &frac12; cup chopped onion
-- 2 cups finely crushed Corn Flakes
+- 2 c. sour cream
+- 1 &frac12; c. grated, sharp cheddar cheese
+- &frac12; c. melted butter
+- &frac12; c. chopped onion
+- 2 c. finely crushed Corn Flakes
 - 2 Tbsp butter, melted
 
 ### Optional
@@ -36,7 +36,7 @@ __Description__: A Farris Family favorite, always paired with some good meat smo
 ## Instructions
 
 1. Grease 9x13 baking dish. Preheat oven to 350*.
-2. In a large bowl, combine soup, sour cream, cheese, onions, and the ½ cup of melted butter. Gently fold hash browns into mixture. Pour mixture into pan.
+2. In a large bowl, combine soup, sour cream, cheese, onions, and the ½ c. of melted butter. Gently fold hash browns into mixture. Pour mixture into pan.
 3. Combine crushed Corn Flakes and the 2 Tbsp butter, then sprinkle it on top of the potato mixture.[^skip]
 4. Bake for 30 minutes (unless using the cubed potatoes, then bake for 55 minutes).
 
