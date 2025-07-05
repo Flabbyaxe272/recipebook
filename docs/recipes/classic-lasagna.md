@@ -32,6 +32,6 @@ __Description__: Found on the Google Drive. Honestly, is a simple great recipe t
 
 ## Instructions
 
-1.In a large pot, cook pasta to desired tenderness. In separate pan, cook sausage & onion together. When meat is cooked through, drain excess fat. Add tomato sauce, then add sugar & basil.
+1. In a large pot, cook pasta to desired tenderness. In separate pan, cook sausage & onion together. When meat is cooked through, drain excess fat. Add tomato sauce, then add sugar & basil.
 2. In a separate bowl, mix together the cottage cheese & mozzarella cheese til well balanced. Then add parsley to the cheese mixture.
 3. To layer: grease a 9&times;13 baking dish, coat with some sauce, add noodles across, then cheese mixture, then more sauce. Repeat. Final top of noodles will have remaining sauce & mozzarella cheese. Bake in 350&deg;F oven for 30 minutes, or until cheese has melted & browned a little.

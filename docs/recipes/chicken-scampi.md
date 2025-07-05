@@ -36,7 +36,7 @@ __Description__: A great family recipe, which was commonly made in the Farris ho
 - Angel hair (or linguine) pasta
 - olive oil
 - 2 chicken breasts, thinly sliced strips
-- 3 Assorted color bell pepper, sliced
+- 2 Assorted color bell pepper, sliced
 
 ***
 
@@ -45,7 +45,7 @@ __Description__: A great family recipe, which was commonly made in the Farris ho
 ### Sauce
 
 1. In a large saucepan, melt butter, and add in onion and garlic. Saut&#233; for about 30 seconds or until fragrant.
-2. Add apple juice, salt, crushed red pepper, and pepper. Bring to a low boil and reduce by half.
+2. Add apple juice, salt, italian seasoning, crushed red pepper, and pepper. Bring to a low boil and reduce by half.
 3. After reducing, add parsley and heavy cream to the sauce and set aside.
 
 ### Chicken

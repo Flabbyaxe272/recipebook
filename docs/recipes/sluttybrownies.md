@@ -1,7 +1,6 @@
 ---
 tags:
     - Dessert
-    - Justin's Mission
 ---
 
 # Ultimate Slutty Brownies

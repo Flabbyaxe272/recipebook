@@ -2,7 +2,6 @@
 tags:
     - Beef
     - Pasta
-    - Justin's Childhood
 ---
 
 # Farris Stroganoff

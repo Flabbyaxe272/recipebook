@@ -19,11 +19,11 @@ __Description__: "A family favorite that's almost too good to be true!" Even tho
 ### Steaks
 
 - 6 petite sirloin steaks[^steak]
-- 3 Tbsp Butter, melted
-- &frac12; c. Bottled chili sauce
-- &frac12; c. Chili garlic sauce[^cgs]
-- 3 Tbsp Worcestershire sauce
-- &frac12; c. Chopped onion
+- 3 Tbsp butter, melted
+- &frac12; c. bottled chili sauce
+- &frac12; c. chili garlic sauce[^cgs]
+- 3 Tbsp worcestershire sauce
+- &frac12; c. white onion, chopped
 
 ### Mushroom Sauce
 

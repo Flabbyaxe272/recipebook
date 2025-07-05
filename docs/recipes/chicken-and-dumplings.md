@@ -36,7 +36,7 @@ __Description__: Real quick and easy comfort food, if you have an Instant Pot.
 ### Dumplings
 
 - 2 c. buttermilk biscuit mix
-- &frac12; c. plus 1 Tbsp milk
+- &frac12; c. milk plus another 1 Tbsp milk (as needed)
 - 1 tsp parsley
 
 ***

@@ -19,11 +19,13 @@ __Description__: This came about because my parents liked to make breakfast burr
 - 1 lb shredded hashbrowns
 - 4 Tbsp butter
 - 1 lb bacon
-- 1 lb breakfast Sausage^[Original recipie calls for Jimmy Dean brand]
+- 1 lb breakfast Sausage[^sausage]
 - &frac12; lg Onion
 - 6 Eggs
 - Cheese
 - Salt/pepper
+
+[^sausage]: Original recipie calls for Jimmy Dean brand, NOT Maple flavored. Maple flavoring makes it all taste like syrup. But if you don't have Jimmy Dean, then any pork breakfast sausage should do.
 
 ***
 

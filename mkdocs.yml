@@ -1,7 +1,6 @@
 site_name: "Farris Family Recipe Book"
 theme:
   name: "material"
-# custom_dir: "custom_theme/"
 # Logo
   icon:
     logo: fontawesome/solid/spoon
@@ -13,7 +12,7 @@ theme:
     - navigation.path
     - navigation.indexes
     - search.suggest
-    - search.highlight
+#   - search.highlight   # Didn't like the highlight as it persisted, never went away with a page, even after reloading.
     - content.footnote.tooltips
   palette:
     # Palette toggle for automatic mode
@@ -25,8 +24,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      primary: deep orange
-      accent: blue
+      primary: blue
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -35,7 +34,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: red
-      accent: indigo
+      accent: orange
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
@@ -62,8 +61,7 @@ plugins:
           case: lower
 
 nav:
-  - Home:
-      - index.md
+  - Home: index.md
   - Recipes: recipes/index.md
   - Cooking Tips: tips.md
   - About: about.md

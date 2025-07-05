@@ -2,7 +2,6 @@
 tags:
     - Beef
     - Soup
-    - Justin's Childhood
     - Potato
 ---
 
@@ -14,7 +13,7 @@ __Tags__: #JustinsChildhood #beef #soup
 
 __Servings per Recipe__: 6
 
-__Description__: While it is quite simple, it's delicious and keeps well in Mason jars for lunches. Came into the Farris family from 2016 from the Sager Family (Justin's friend Nathan Sager).
+__Description__: While it is quite simple, it's delicious and keeps well in Mason jars for lunches. Came into the Farris family in 2016 from the Sager Family (Justin's friend Nathan Sager).
 
 ***
 

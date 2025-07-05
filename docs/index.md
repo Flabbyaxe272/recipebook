@@ -8,7 +8,9 @@ title: Farris Fam Recipes
 <!-- markdownlint-disable MD026 -->
 <!-- markdownlint-disable MD025 -->
 
-![Family logo](img/farrisfamrecipes.png)
+Click the logo to go to the Recipies!
+
+[![Family logo](img/farrisfamrecipes.png)](recipes/index.md)
 
 This is an online collection of recipes that is meant to be shared within the Farris Family and friends!
 

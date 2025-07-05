@@ -2,6 +2,7 @@
 tags:
     - Thanksgiving
     - Wassom Recipe
+    - Vegetables
 ---
 
 # Vegetable Medley
