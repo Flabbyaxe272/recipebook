@@ -16,16 +16,16 @@ __Description__: Trial run :smile:
 
 ## Ingredients
 
-    - 1 lb elbow macaroni
-    - 2 c. Best Foods or Hellmann’s mayonnaise (not Miracle Whip)
-    - ¼ c. whole milk (or more for creaminess)
-    - 2 Tbsp apple cider vinegar (or white vinegar)
-    - 1 Tbsp sugar
-    - 1 tsp salt
-    - 1 tsp black pepper (adjust to taste)
-    - 1 c. grated carrot (about 1–2 carrots)
-    - ½ c. grated yellow or sweet onion (optional)
-    - ¼ c. chopped celery or green onion (optional for variety — not always traditional)
+- 1 lb elbow macaroni
+- 2 c. Best Foods or Hellmann’s mayonnaise (not Miracle Whip)
+- ¼ c. whole milk (or more for creaminess)
+- 2 Tbsp apple cider vinegar (or white vinegar)
+- 1 Tbsp sugar
+- 1 tsp salt
+- 1 tsp black pepper (adjust to taste)
+- 1 c. grated carrot (about 1–2 carrots)
+- ½ c. grated yellow or sweet onion (optional)
+- ¼ c. chopped celery or green onion (optional for variety — not always traditional)
 
 ***
 
