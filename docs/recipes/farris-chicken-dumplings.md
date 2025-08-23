@@ -1,7 +1,7 @@
 ---
 tags: 
     - Chicken
-    - Slowcooker
+    - Slow Cooker
 ---
 
 # Farris Chicken Dumplings
