@@ -4,6 +4,7 @@ tags:
     - Instant Pot
     - Soup
     - Dinner
+    - Half-Homemade
 ---
 
 # Chicken and Dumplings

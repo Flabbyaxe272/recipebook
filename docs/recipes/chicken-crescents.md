@@ -3,6 +3,7 @@ tags:
     - Wassom Recipe
     - Chicken
     - Dinner
+    - Half-Homemade
 ---
 
 # Chicken Crescents

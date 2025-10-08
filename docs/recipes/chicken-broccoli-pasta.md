@@ -3,6 +3,7 @@ tags:
     - Dinner
     - Chicken
     - Farris Recipe
+    - Half-Homemade
 ---
 
 # Chicken & Broccoli Shells

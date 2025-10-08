@@ -2,6 +2,7 @@
 tags:
     - Side
     - Farris Recipe
+    - Half-Homemade
 ---
 
 # Dad's Homemade Salsa

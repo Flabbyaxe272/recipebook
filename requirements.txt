@@ -1,2 +1,5 @@
+# Requirements text needed to run with Cloudflare.
+
 mkdocs
 mkdocs-material
+mkdocs-exclude-search
