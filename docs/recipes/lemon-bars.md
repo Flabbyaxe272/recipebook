@@ -9,7 +9,7 @@ __Original Source__: Costco Cookbook
 
 __Servings per Recipe__: 24 bars
 
-__Description__: Justin has always bragged about how good these lemon bars are. Probably because he puts in way more lemon juice than what's called for.
+__Description__: Justin has always bragged about how good these lemon bars are.
 
 ***
 
@@ -19,7 +19,7 @@ __Description__: Justin has always bragged about how good these lemon bars are. 
 - 2 &frac14; c. flour, divided
 - 2 c. sugar, divided
 - 4 eggs
-- Lemon Juice
+- Lemon Juice to taste
 - Powdered Sugar
 
 ***

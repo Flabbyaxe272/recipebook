@@ -25,7 +25,7 @@ __Description__: Simple recipe, great flavor! Adjust to your preferences. Justin
 - Peas
 - Soy sauce
 
-[^rice]: The key to the rice is that you cook it the night prior, at the very latest, and refridgerate it. You usually want one day old rice. That makes it not sticky or mushy when cooking in the pan.
+[^rice]: The key to the rice is that you cook it the night prior, and refridgerate it. You usually want one day old rice. That makes it not sticky or mushy when cooking in the pan.
 
 ***
 

@@ -8,11 +8,13 @@ tags:
 
 # Zuppa Toscana
 
-__Original Source__:
+__Alternate Names__: Tuscan Soup
+
+__Original Source__: Aunt Reina
 
 __Servings per Recipe__: 6
 
-__Description__: Justin's Favorite Soup. Still has it for his birthday (in July).
+__Description__: Justin's Favorite Soup. Still has it for his birthday (in the heat of summer :sweat_smile:).
 
 ***
 
@@ -35,7 +37,7 @@ __Description__: Justin's Favorite Soup. Still has it for his birthday (in July)
 ## Instructions
 
 1. Cut bacon into bits, cook, and drain grease.
-2. While bacon cooks, add and cook italian sausage in a large pot (5 qt preferred), then add onion, garlic, and crushed red pepper flakes. Cook until fragrant.
+2. While bacon cooks, add and cook italian sausage in a large pot (5+ qt preferred), then add onion, garlic, and crushed red pepper flakes. Cook until fragrant.
 3. Slice potatoes into thin rounds, and add to pot.
 4. Add water, salt, and bullion, and bring to a boil.
 5. Cook on high until potatoes are tender.

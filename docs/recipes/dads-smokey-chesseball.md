@@ -17,7 +17,7 @@ __Description__: Best Smokey cheese ball
 
 ## Ingredients
 
-- 1 (8 oz) package  
+- 1 (8 oz) package cream cheese
 - 1 tsp garlic powder  
 - 1 tsp onion powder  
 - &frac14; tsp salt  

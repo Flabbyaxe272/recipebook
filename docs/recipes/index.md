@@ -1,6 +1,6 @@
 # Recipes
 
-The heart and soul of the website. A combination of various families recipes, and a few others from other sources. Make sure to visit any external sites, like BudgetBytes, who do amazing work and have great many more recipes.
+The heart and soul of the website. A combination of various families recipes, and a few others from other sources. Make sure to visit any external sites, like [Budget Bytes](https://www.budgetbytes.com), who do amazing work and have great many more recipes.
 
 Below are the tags of the recipes, so if you need something specific, feel free to go to the tag you want.
 

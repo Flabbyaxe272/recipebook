@@ -5,6 +5,7 @@ tags:
     - Chicken
     - Pasta
     - Half-Homemade
+    - Italian
 ---
 
 # Chicken Parmigiana

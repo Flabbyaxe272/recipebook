@@ -32,13 +32,15 @@ __Description__: Real quick and easy comfort food, if you have an Instant Pot.
 - 2 tsp chicken bullion
 - 1 tsp salt
 - 1 tsp pepper
-- 1 tsp poultry seasoning
+- 1 tsp [poultry seasoning](poultry-seasoning.md)
 
 ### Dumplings
 
-- 2 c. buttermilk biscuit mix
+- 2 c. buttermilk biscuit mix [^biscuit-mix]
 - &frac12; c. milk plus another 1 Tbsp milk (as needed)
 - 1 tsp parsley
+
+[^biscuit-mix]: I use Bisquick Biscuit mix.
 
 ***
 

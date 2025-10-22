@@ -33,6 +33,6 @@ __Description__: Quick recipe for a great dish!
 
 1. Peel potatoes, rinse, & slice into thin rounds. Place the sliced potatoes into a large pot (or fill your baking pan to get the right amount), and fill the pot with enough water to cover the potatoes. Add a little salt to the water.
 2. Dice the ham, set aside.
-3. Place a deep skillet on the stove, on medium heat. Melt the butter in the pan. Add enough flour to absorb all the butter to make a rue. Add milk to fill half the skillet. Whisk quickly to break down the rue. Once you have your desired thickness, add your slices of American cheese. Whisk together until cheese is melted. Add ham to your cheesy gravy & stir together.
+3. Place a deep skillet on the stove, on medium heat. Melt the butter in the pan. Add enough flour to absorb all the butter to make a roux. Add milk to fill half the skillet. Whisk quickly to break down the roux. Once you have your desired thickness, add your slices of American cheese. Whisk together until cheese is melted. Add ham to your cheesy gravy & stir together.
 4. Once the potatoes are tender (at least, most of the way), drain & place in a glass 9x13 pan. Pour your cheesy gravy over the potatoes and mix slightly.
 5. Grate cheddar cheese on top. Place in the 350* oven for 30 minutes (until cheese on top is melted). ENJOY!

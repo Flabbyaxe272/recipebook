@@ -12,7 +12,7 @@ Additonal bonus:
 
 ## Roadmap
 
-I'm still learning so I don't know how this project will go. But if it does start taking off, I want to start tracking progress of features in the Projects section. 
+I'm still learning so I don't know how this project will go. But if it does start taking off, I want to start tracking progress of features in the Projects section.
 
 ## Contributing
 

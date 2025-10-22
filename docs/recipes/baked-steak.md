@@ -2,6 +2,7 @@
 tags:
     - Wassom Recipe
     - Beef
+    - Dinner
 ---
 
 # Baked Steak

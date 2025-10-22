@@ -1,6 +1,7 @@
 ---
 tags:
     - Farris Recipe
+    - Dinner
     - Chicken
     - Pasta
     - Italian
