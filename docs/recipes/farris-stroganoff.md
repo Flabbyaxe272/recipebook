@@ -2,6 +2,7 @@
 tags:
     - Beef
     - Pasta
+    - Farris Recipe
 ---
 
 # Farris Stroganoff
@@ -10,7 +11,7 @@ __Original Source__: Farris Family Recipes
 
 __Servings per Recipe__: 4
 
-__Description__: This is something that I've enjoyed and like due to the simplicity of the recipe.
+__Description__: This is something that I've enjoyed and like due to the simplicity of the recipe. Similar to [a Wassom Recipe](hamburger-rice-sauce.md) and [another Farris Recipe](creamy-beef-and-rice.md). I recommend the Farris Recipe.
 
 ***
 
