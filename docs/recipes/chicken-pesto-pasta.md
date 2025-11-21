@@ -12,16 +12,36 @@ __Original Source__: [Budget Bytes](https://www.budgetbytes.com/one-pot-creamy-p
 
 __Servings per Recipe__:
 
-__Description__: And this is a change and does not matter.
+__Description__: Very delicious one-pot pesto dish that's perfect for weeknights.
 
 ***
 
 ## Ingredients
 
--
+- 1 lb. boneless, skinless chicken breast
+- 2 Tbsp butter
+- 2 cloves garlic
+- 1/2 lb. penne pasta
+- 1.5 cups chicken broth
+- 1 cup milk
+- 3 oz. cream cheese*
+- 1/3 cup basil pesto
+- 1/4 cup grated Parmesan
+- freshly cracked pepper
+- 1 pinch crushed red pepper
+
+### Optional Add-Ins
+
+- 3 cup fresh spinach
+- 1/4 cup sliced sun dried tomatoes
 
 ***
 
 ## Instructions
 
-1.
+1. Cut the chicken breast into 1-inch pieces. Add the butter to a deep skillet and melt over medium heat. Add the chicken to the skillet and cook over medium heat until the chicken is slightly browned on the outside.
+2. While the chicken is cooking, mince the garlic. Add the garlic to the skillet with the chicken and continue to sauté for one minute more.
+3. Add the uncooked pasta and chicken broth to the skillet with the chicken and garlic. Stir to dissolve any browned bits from the bottom of the skillet. Place a lid on the skillet, turn the heat up to medium-high, and bring the broth up to a boil.
+4. Once the broth comes to a full boil, give the pasta a quick stir, replace the lid, and turn the heat down to medium-low. Let the pasta simmer over medium-low heat for about 8 minutes, or until the pasta is tender and most of the broth has been absorbed. Stir the pasta briefly every two minutes as it simmers, replacing the lid quickly each time.
+5. Once the pasta is tender and most of the broth absorbed, add the milk, cream cheese (cut into chunks), and pesto. Stir and cook over medium heat until the cream cheese has fully melted into the sauce. Finally, add the grated Parmesan and stir until combined.
+6. If using, add the fresh spinach and sliced sun dried tomatoes. Stir until the spinach has wilted, then remove the pasta from the heat. Top the pasta with freshly cracked pepper and a pinch of crushed red pepper, then serve.
