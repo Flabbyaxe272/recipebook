@@ -8,9 +8,9 @@ tags:
 
 # Zuppa Toscana
 
-__Alternate Names__: Tuscan Soup
+__Alternate Names__: Tuscan (Toscana) Soup
 
-__Original Source__: Aunt Reina
+__Original Source__: Top Secret Recipes (with a twist)
 
 __Servings per Recipe__: 6
 
