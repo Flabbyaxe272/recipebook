@@ -3,6 +3,7 @@ tags:
     - Beef
     - Soup
     - Potato
+    - Dinner
 ---
 
 # Sager Soup

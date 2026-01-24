@@ -4,6 +4,7 @@ tags:
     - Chicken
     - Noodle
     - Soup
+    - Dinner
 ---
 
 # Blake's Famous Soup (Chicken Noodle Soup)

@@ -4,6 +4,7 @@ tags:
     - Soup
     - Seafood
     - Potato
+    - Dinner
 ---
 
 # Clam Chowder

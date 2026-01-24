@@ -2,6 +2,7 @@
 tags:
     - Wassom Recipe
     - Seafood
+    - Cajun
 ---
 
 # Razzoo’s-Style Stuffed Fish Copycat Recipe :fish:

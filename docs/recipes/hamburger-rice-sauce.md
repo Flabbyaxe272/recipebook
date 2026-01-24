@@ -3,6 +3,7 @@ tags:
     - Wassom Recipe
     - Beef
     - Rice
+    - Dinner
 ---
 
 # Hamburger Rice and Sauce

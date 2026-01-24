@@ -3,6 +3,7 @@ tags:
     - Beef
     - Wassom Recipe
     - Pasta
+    - Dinner
 ---
 
 # Wassom Beef Stroganoff

@@ -1,6 +1,7 @@
 ---
 tags:
     - Chili
+    - Dinner
 ---
 
 # Mom's Chili

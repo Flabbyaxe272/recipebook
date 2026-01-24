@@ -3,6 +3,7 @@ tags:
     - Wassom Recipe
     - Sausage
     - Pasta
+    - Dinner
 ---
 
 # Sausage Saute
