@@ -2,7 +2,7 @@
 tags:
     - Pork
     - Farris Recipe
-    - 
+    - Dinner
 ---
 
 # Pulled Pork
