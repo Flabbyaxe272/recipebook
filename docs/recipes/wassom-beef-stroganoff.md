@@ -28,7 +28,7 @@ __Description__: Top notch stroganoff, with steak strips and mushrooms that burs
 - &frac34; c. warm water[^broth]
 - 1 tsp beef bouillon (or 1 cube)[^broth]
 - 2 Tbsp flour
-- 2 tsp. worcestershire sauce
+- 2 tsp worcestershire sauce
 - &frac12; c. sour cream
 - 1 pkg egg noodles
 

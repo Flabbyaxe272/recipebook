@@ -24,7 +24,7 @@ __Description__: Very delicious one-pot pesto dish that's perfect for weeknights
 - 1/2 lb. penne pasta
 - 1.5 cups chicken broth
 - 1 cup milk
-- 3 oz. cream cheese*
+- 3 oz cream cheese*
 - 1/3 cup basil pesto
 - 1/4 cup grated Parmesan
 - freshly cracked pepper

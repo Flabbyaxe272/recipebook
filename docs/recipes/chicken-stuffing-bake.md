@@ -20,7 +20,7 @@ __Description__: Layers of seasoned chicken, creamy soup and stuffing all come t
 - 2 cans (10.75 ounces, each) condensed cream of chicken soup
 - 1/4 cup milk
 - 2 boxes (6 ounces each) Stove Top Chicken Stuffing mix
-- 1 ½ cups chicken broth
+- 1 &frac12; cups chicken broth
 
 ***
 

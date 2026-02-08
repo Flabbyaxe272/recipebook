@@ -25,7 +25,7 @@ __Description__:
 - 5 Carrots
 - &frac12; lg Onion
 - &frac14; c. Butter
-- 8 oz. Velveeta Cheese[^cheese]
+- 8 oz Velveeta Cheese[^cheese]
 - 1 can Cream of Mushroom
 - French Fried Onions
 

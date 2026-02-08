@@ -20,7 +20,7 @@ __Description__: Though rarely made, is one of Justin's favorites dishes. Hasn't
 - 3 Tbsp unsalted butter
 - 1 c. chopped onion
 - 1 &frac12; Tbsp minced garlic
-- 1 lb smoked sausage, cut in ¼” slices
+- 1 lb smoked sausage, cut in &frac14;” slices
 - 1 lb smoked, low-sodium ham, diced
 - 1 lb boneless chicken breasts, cut into bite-size
 - 2 bay leaves

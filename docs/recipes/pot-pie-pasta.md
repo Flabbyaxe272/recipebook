@@ -26,12 +26,12 @@ __Description__: Very easy to do recipe that is tasty! Having done this with pen
 - 2 cups cooked chicken, diced or shredded (rotisserie works great)
 - 1 cup frozen mixed vegetables (peas, carrots, corn, green beans)
 - 2 tbsp all-purpose flour
-- 1½ cups chicken broth
+- 1&frac12; cups chicken broth
 - 1 cup heavy cream (or half-and-half)
-- ½ tsp dried thyme
-- ½ tsp dried parsley
+- &frac12; tsp dried thyme
+- &frac12; tsp dried parsley
 - ⅛ tsp salt
-- ¼ tsp black pepper
+- &frac14; tsp black pepper
 - Optional topping: crushed buttery crackers (think Ritz) or puff pastry bites
 
 ***

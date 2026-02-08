@@ -42,7 +42,7 @@ __Description__: A Farris Family favorite, always paired with some good meat smo
 ## Instructions
 
 1. Grease 9x13 baking dish. Preheat oven to 350*.
-2. In a large bowl, combine soup, sour cream, cheese, onions, and the ½ c. of melted butter. Gently fold hash browns into mixture. Pour mixture into pan.
+2. In a large bowl, combine soup, sour cream, cheese, onions, and the &frac12; c. of melted butter. Gently fold hash browns into mixture. Pour mixture into pan.
 3. Sprinkle corn flakes on top of the potato mixture.[^butter]
 4. Bake for 30 minutes (unless using the cubed potatoes, then bake for 55 minutes).
 

@@ -27,4 +27,4 @@ Very easy and simple recipe, great date night dessert.
 
 ## Instructions
 
-1. Mix in bag until down
+1. Mix in bag until complete.

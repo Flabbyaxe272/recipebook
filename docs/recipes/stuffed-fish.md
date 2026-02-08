@@ -27,13 +27,13 @@ __Description__:
 ### Sauce / “Stuffing” Topping
 
 - 4 oz lump crab meat
-- ½ cup peeled, deveined shrimp (roughly chopped)
+- &frac12; cup peeled, deveined shrimp (roughly chopped)
 - 2 tbsp butter
 - 1/4 cup finely chopped onion
 - 1/4 cup chopped green bell pepper
 - 1 garlic clove, minced
-- ½ cup cream
-- ¼ tsp paprika
+- &frac12; cup cream
+- &frac14; tsp paprika
 - A pinch of cayenne (optional, for heat)
 - Salt and pepper to taste
 - Optional: 1 tbsp lemon juice or chopped parsley

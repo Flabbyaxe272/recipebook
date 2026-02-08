@@ -19,7 +19,7 @@ __Description__: I had no idea this recipe existed.
 ## Ingredients
 
 - 21 Jumbo pasta shells
-- 3 c. cooked, shredded chicken, seasoned with cajun seasoning while cooking (or add ¼ tsp garlic powder & salt and pepper to taste)
+- 3 c. cooked, shredded chicken, seasoned with cajun seasoning while cooking (or add &frac14; tsp garlic powder & salt and pepper to taste)
 - 1 lb bag frozen broccoli florets (steamed then chopped)
 - 1 16 oz jar alfredo sauce (or homemade alfredo recipe)
 - 1 c. shredded mozzarella cheese

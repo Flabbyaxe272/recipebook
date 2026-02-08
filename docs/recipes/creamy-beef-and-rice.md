@@ -24,13 +24,13 @@ __Description__: Tried and improved recipe to add more depth and flavor for the 
 - 1 can cream of mushroom soup (10.5 oz)
 - 1 cup sour cream
 - 1-2 tsp Worcestershire sauce
-- ½-1 tsp beef bouillon paste or powder
-- ¼ tsp fish sauce (optional but ideal)
-- ½ tsp black pepper
-- ¼-½ tsp onion powder
+- &frac12;-1 tsp beef bouillon paste or powder
+- &frac14; tsp fish sauce (optional but ideal)
+- &frac12; tsp black pepper
+- &frac14;-&frac12; tsp onion powder
 - Soy sauce to taste (start with 1-2 tsp and build up if needed)
 - Salt only if needed
-- Optional: ½ tsp smoked paprika or ½ tsp dried thyme
+- Optional: &frac12; tsp smoked paprika or &frac12; tsp dried thyme
 
 ## Instructions
 

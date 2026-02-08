@@ -26,7 +26,7 @@ __Description__: A fall favorite! Justin and Rachel make it for General Conferen
 - &frac12; tsp ginger, ground
 - 4 tsp baking soda
 - 4 eggs
-- 2 &frac12; c. pumpkin (equal to 30 oz. can)
+- 2 &frac12; c. pumpkin (equal to 30 oz can)
 - 5 c. flour
 - 1 pkg chocolate chips (2 c.), your choice of dark or milk chocolate
 

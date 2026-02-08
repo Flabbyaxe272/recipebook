@@ -19,15 +19,15 @@ __Description__: Delicious, easy to make, and perfect if you want to be healthy!
 
 - 2 Tbsp. olive oil
 - 2 boneless, skinless chicken breasts, cut in half horizontally
-- 1 &frac12; tsp. lemon pepper seasoning
+- 1 &frac12; tsp lemon pepper seasoning
 - &frac12; cup onion, chopped
 - 2 garlic cloves, minced
 - &frac13; cup chicken broth
 - 1 cup heavy cream
 - &frac12; cup freshly grated Parmesan cheese
 - &frac12; cup shivered sun-dried tomatoes
-- 1 tsp. Italian seasoning
-- ¼ tsp. garlic powder
+- 1 tsp Italian seasoning
+- &frac14; tsp garlic powder
 - 4 cups baby spinach
 
 ***

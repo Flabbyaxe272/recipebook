@@ -25,7 +25,7 @@ __Description__: Great fall (autumn) or winter meal served with rolls!
 - &frac34; tsp salt
 - &frac12; tsp pepper
 - 6 c. milk
-- 8 oz. sour cream
+- 8 oz sour cream
 - 1 bunch green onions
 - 10 bacon strips, cooked and crumbled
 - 1-2 c. shredded sharp cheddar cheese
