@@ -10,12 +10,6 @@ A personal project that involves adding all the recipes that I can get my hands 
 
 - **Easy to follow!** All the recipes I use follow the same template: Ingredients, then instructions! Notes are included either as footnotes or it's own section. No ranting to make someone scroll all the way down to get to the good stuff.
 
-Additonal bonus:
-
-- **No Ads!** I'm committed to running this ad-free, because who wants to see ads relating to deodorant when you're trying to cook up some family recipes?
-
-- **Easy to follow!** All the recipes I use follow the same template: Ingredients, then instructions! Notes are included either as footnotes or it's own section. No ranting to make someone scroll all the way down to get to the good stuff.
-
 ## Roadmap
 
 I'm still learning so I don't know how this project will go. But if it does start taking off, I want to start tracking progress of features.
