@@ -35,5 +35,5 @@ __Description__: Fun Cookies! Found on the Google Drive, it's basically a sugar 
 3. Cream together butter and granulated sugar until light and fluffy, about 3 minutes.
 4. Add egg and mix until well-combined.
 5. Stir in flour, baking powder, salt, vanilla, and sprinkles, making sure all is well combined.
-6. Scoop cookie dough by the tablespoon full and place cookie dough onto the baking sheet, spacing about 1&frac12;-inches to 2 inches apart.
+6. Scoop cookie dough by the Tbsp full and place cookie dough onto the baking sheet, spacing about 1&frac12;-inches to 2 inches apart.
 7. Bake for 10 &ndash; 12 minutes or until lightly browned.

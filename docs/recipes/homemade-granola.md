@@ -30,10 +30,10 @@ __Description__: A delicious homemade granola recipe that can be eaten as a snac
 
 ## Instructions
 
-1. Preheat the oven to 300 degrees F. Have a 15x10 rimmed baking sheet ready.
+1. Preheat the oven to 300&deg;F. Have a 15x10 rimmed baking sheet ready.
 2. Combine the oil and honey in a saucepan over low heat. Stir until combined. Whisk in the vanilla. Remove from the heat and set aside.
 3. In a bowl, combine the oats, almonds, brown sugar, salt, and cinnamon. Mix well. Pour the honey mixture evenly over the oat mixture. Stir with a wooden spoon until everything is coated.
-4. Spread the granola out in an even layer on the baking sheet. Place in the oven and bake at 300 degrees F for 40 minutes, stirring gently every 10 minutes.
+4. Spread the granola out in an even layer on the baking sheet. Place in the oven and bake at 300&deg;F for 40 minutes, stirring gently every 10 minutes.
 5. Remove the baking sheet from the oven and let the granola cool completely on the baking sheet.
 6. Combine the cooled granola with the dried fruit (and chocolate chips, if using). Serve immediately or store in an airtight container for up to 1 week at room temperature (or freeze for up to 3 months).
 

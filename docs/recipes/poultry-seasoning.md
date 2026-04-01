@@ -15,12 +15,12 @@ __Description__: Necessary for [Chicken and Dumplings](chicken-and-dumplings.md)
 
 ## Ingredients
 
-- 2 teaspoons ground dried sage
-- 1 &frac12; teaspoons ground dried thyme
-- 1 teaspoon ground dried marjoram
-- ¾ teaspoon ground dried rosemary
-- &frac12; teaspoon ground nutmeg
-- &frac12; teaspoon finely ground black pepper
+- 2 tsp ground dried sage
+- 1 &frac12; tsp ground dried thyme
+- 1 tsp ground dried marjoram
+- &frac34; tsp ground dried rosemary
+- &frac12; tsp ground nutmeg
+- &frac12; tsp finely ground black pepper
 
 ***
 

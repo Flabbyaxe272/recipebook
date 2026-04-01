@@ -25,10 +25,10 @@ __Description__: This high protien, kid-friendly, gluten-free recipe is a fantas
 - 2 cups corn, fresh or frozen
 - 1 cup chicken broth, low sodium
 - 4 oz can diced green chilies
-- 1 teaspoon cumin
-- 2 teaspoons chili powder
-- 1 teaspoon garlic powder
-- 3/4 teaspoon salt
+- 1 tsp cumin
+- 2 tsp chili powder
+- 1 tsp garlic powder
+- 3/4 tsp salt
 - Ground black pepper, to taste
 - 1 pound or 2 large chicken breasts, boneless and skinless
 - Small bunch of cilantro, finely chopped
