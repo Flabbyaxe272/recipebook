@@ -11,7 +11,8 @@ __Original Source__: [Sophia from Creatives Cookery](https://creativescookery.co
 
 __Servings per Recipe__: 6 servings
 
-__Description__: _This creamy Alfredo lasagna soup combines the comforting flavors of lasagna in a rich, velvety soup. With savory Italian sausage or ground chicken, tender lasagna noodles, and a cheesy Alfredo-style broth, it’s the ultimate cold-weather comfort food._
+__Description__: Lasagna in soup form. Rich, cheesy, and perfect for 
+cold nights — and way easier than making actual lasagna.
 
 ***
 
@@ -34,11 +35,11 @@ __Description__: _This creamy Alfredo lasagna soup combines the comforting flavo
 
 ***
 
-### Instructions
+## Instructions
 
-1. __Cook the Meat__: In a large pot or Dutch oven, heat the olive oil over medium heat. Add the ground chicken or Italian sausage and cook until browned, breaking it into small pieces with a spatula. Drain excess fat if needed.
-2. __Saut&#233; Aromatics__: Add the diced onion and minced garlic to the pot with the cooked meat. Saut&#233; for 3–4 minutes, or until the onion becomes translucent and fragrant.
-3. __Add Broth and Sauces__: Pour in the chicken broth, heavy cream, and marinara sauce, stirring well to combine. Add the Italian seasoning, salt, and black pepper. Bring the mixture to a gentle boil.
-4. __Cook the Noodles__: Add the broken lasagna noodles to the pot, making sure they are submerged in the liquid. Simmer for 10–12 minutes, or until the noodles are tender.
-5. __Add Cheese__: Reduce the heat to low. Stir in the grated Parmesan cheese until melted and creamy. Add the shredded mozzarella cheese and stir until smooth.
-6. __Serve__: Ladle the soup into individual bowls. Garnish with fresh basil or parsley for extra flavor and a touch of color. Sprinkle with red pepper flakes for a hint of spice if desired. Serve hot and enjoy!
+1. Heat olive oil in a large pot or Dutch oven over medium heat. Brown the ground chicken or sausage, breaking it up as it cooks. Drain any excess fat.
+2. Throw in the diced onion and garlic and cook for 3-4 minutes until the onion softens.
+3. Pour in the chicken broth, heavy cream, and marinara sauce and stir it all together. Add the Italian seasoning, salt, and pepper. Bring to a gentle boil.
+4. Break the lasagna noodles into pieces and add them to the pot, pushing them down into the liquid. Simmer for 10-12 minutes until the noodles are tender.
+5. Turn the heat down to low and stir in the parmesan until melted, then add the mozzarella and stir until smooth and creamy.
+6. Ladle into bowls and top with fresh basil or parsley. Add red pepper flakes if you like a little heat.

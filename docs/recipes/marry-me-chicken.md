@@ -12,7 +12,7 @@ __Original Source__: [@sophia.elmss on Instagram](https://www.instagram.com/reel
 
 __Servings per Recipe__: 2–4
 
-__Description__: THE coziest creamy chicken pasta... and it's all in one pot. My husband asked to add this to our regular meals, so trust me this recipe is worth saving.
+__Description__: One pot, incredibly creamy, and a Farris family approved weeknight dinner. Katie found this one and it earned a permanent spot in the rotation.
 
 ***
 
@@ -40,18 +40,17 @@ __Description__: THE coziest creamy chicken pasta... and it's all in one pot. My
 
 ## Instructions
 
-1. Heat the sun-dried tomato oil in a large pot over medium heat. Add the onion and cook 3–4 minutes until softened. Stir in garlic and cook 30 seconds until fragrant.
+1. Heat the sun-dried tomato oil in a large pot over medium heat. Cook the onion for 3-4 minutes until soft, then add the garlic and cook for another 30 seconds.
+2. Add the tomato paste and sun-dried tomatoes and stir for about 2 minutes until the tomato paste darkens a bit.
+3. Pour in the chicken broth and heavy cream. Add the basil, salt, Italian seasoning, garlic powder, onion powder, and red pepper flakes. Bring to a gentle simmer and let it cook for 8-10 minutes.
+4. Add the pasta and drop the heat to medium-low. Cook for 10-12 minutes, stirring here and there, until the pasta is tender.
+5. Turn the heat to low and stir in the spinach, rotisserie chicken, cream cheese, and parmesan. Keep stirring until everything melts together into a creamy sauce, about 3-5 minutes.
+6. Serve topped with extra parmesan and fresh basil. Goes great with crusty bread.
 
-2. Add the tomato paste and sun-dried tomatoes. Cook about 2 minutes, stirring often, until the tomato paste deepens in color.
+## Farris Family Notes
 
-3. Pour in the chicken broth and heavy cream. Stir in basil, salt, Italian seasoning, garlic powder, and red pepper flakes. Bring to a gentle simmer and cook 8–10 minutes.
-
-4. Add the pasta and reduce heat to medium-low. Cook 10–12 minutes, stirring occasionally, until the pasta is tender.
-
-5. Lower the heat and stir in spinach, shredded chicken, cream cheese, and parmesan. Stir until the cheese melts and the soup becomes creamy, about 3–5 minutes.
-
-6. Ladle into bowls and top with EXTRA parmesan and fresh basil. Serve with crunchy bread or yummy sourdough. 
-
-> __Tip:__ Always add a little extra of your seasonings! Recipes are helpful, but don't let them confine you: taste as you go and adjust before serving to get the flavor just right.
+- Use the oil from the sun-dried tomato jar — it adds way more flavor 
+  than plain olive oil.
+- Taste before serving and adjust seasoning to your preference.
 
 [^tomatoes]: If you are not including sun-dried tomatoes, use olive oil.

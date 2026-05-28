@@ -32,15 +32,14 @@ __Description__: The Alfredo sauce for this cottage cheese Alfredo is made with 
 
 ## Instructions
 
-1. Bring a large pot of salted water to a boil. Add pasta and cook until al dente, about 7-9 minutes.
-2. While the pasta is cooking, heat the olive oil over medium/high heat. When the olive oil is fragrant, add the onion and season with &frac14; tsp of salt. Sauté for 4-5 minutes. Add the garlic and sauté for an additional 1 minute. Remove from heat and set aside to cool.
-3. Set aside &frac12; cup of pasta water before straining the pasta. Rinse with water and set aside.
-4. Add the cottage cheese, remaining salt, and the onions and garlic to a high-speed blender. Blend on high for about 30 seconds until smooth. Add 3 Tbsp of pasta water to the blender and blend on high for an additional 30 seconds to 1 minute. The mixture should be bubbly and almost frothy, but should have no lumps and be creamy.
-5. Transfer the pasta back into the pot and pour the Alfredo sauce over the pasta and toss. Heat over low heat until it reaches the desired temperature.
-6. Top with fresh parsley, grated parmesan, salt, and cracked pepper.
+1. Bring a large pot of salted water to a boil and cook the fettuccine until al dente, about 7-9 minutes.
+2. While the pasta cooks, heat olive oil or butter in a pan over medium-high heat. Add the minced onion, season with ¼ tsp salt, and cook for 4-5 minutes. Toss in the garlic and cook another minute. Pull off the heat and let it cool.
+3. Before draining, scoop out ½ cup of pasta water and set it aside. Drain and rinse the pasta.
+4. Dump the cottage cheese, remaining salt, and the cooked onion and garlic into a blender. Blend until smooth, about 30 seconds. Add 3 Tbsp of the pasta water and blend another 30-60 seconds — it should come out creamy and frothy with no lumps.
+5. Pour the sauce over the pasta in the pot and toss to coat. Warm over low heat until heated through.
+6. Serve topped with fresh parsley, parmesan, salt, and cracked pepper.
 
-## Notes
+## Farris Family Notes
 
-- It is important that the cottage cheese mixture is blended for 2 minutes. It incorporates all ingredients that prevent the sauce from curdling later.
-- To avoid curdling, do not heat the pasta over high heat.
-- This recipe used to include 2 Tbsp of heavy cream, but we've made it so many times without it, and it just doesn't need it!
+- Don't rush the blending — the longer you blend, the creamier the sauce.
+- Keep the heat low when warming the pasta or the sauce will break.

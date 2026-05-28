@@ -9,7 +9,7 @@ __Original Source__: Jessica Formicola (from a website somewhere)
 
 __Servings per Recipe__: 16
 
-__Description__: The Ultimate Slutty Brownies are layers of chocolate chip cookie dough, Brownie, Oreo cookies, caramel and sea salt, specifically fleur de sel. The perfect decadent, sweet and salty easy dessert recipe.
+__Description__: Cookie dough, Oreos, fudge brownies, caramel, and sea salt all in one pan. Absolutely over the top in the best way.
 
 ***
 
@@ -27,17 +27,19 @@ __Description__: The Ultimate Slutty Brownies are layers of chocolate chip cooki
 
 ## Instructions
 
-1. Preheat oven to 350&deg;F.
-2. Line a 9&times;13 dish with aluminum foil or parchment paper. (You'll thank me in the long run when you need to clean the dish.) Coat with cooking spray.
-3. Press cookie dough into the bottom of the pan.
-4. Place a single layer of Oreo cookies over raw cookie dough (approx. 28 cookies)
-5. Prepare fudge brownies according to package directions. Foild in the semisweet chocolate chips.
-6. Pour brownie batter over Oreo layer
-7. Top brownie batter with white chocolate chips.
-8. Crush remaining Oreos into large pieces. Evenly pour on top.
-9. Bake, uncovered for 50 minutes[^cooktime] or until they pass the toothpick test.
-10. remove from the oven and allow to cool.
-11. Pull the brownies out of the pan by aluminum foil/parchment paper from step one. Drizzle with caramel sauce and sprinkle with fleur de sel.
-12. Cut into 16 squares and enjoy! They're supposed to be gooey so you may need a fork!
+## Instructions
+
+1. Preheat oven to 350°F.
+2. Line a 9x13 baking dish with aluminum foil or parchment paper and coat with cooking spray. Trust us, you'll thank yourself at cleanup.
+3. Press the cookie dough evenly into the bottom of the pan.
+4. Lay a single layer of Oreos over the cookie dough — about 28 cookies.
+5. Mix up the brownie batter according to the box directions and fold in the semisweet chocolate chips.
+6. Pour the brownie batter over the Oreo layer.
+7. Scatter the white chocolate chips over the top.
+8. Crush the remaining Oreos into chunks and sprinkle them on top.
+9. Bake uncovered for 50 minutes or until a toothpick comes out clean.
+10. Let them cool completely in the pan.
+11. Lift the whole thing out using the foil or parchment. Drizzle with caramel sauce and finish with a sprinkle of fleur de sel.
+12. Cut into 16 squares. These are meant to be gooey so have a fork handy!
 
 [^cooktime]: The original recipe says 35-40 minutes, but it usually undercooks the recipe.

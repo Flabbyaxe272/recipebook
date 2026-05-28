@@ -11,7 +11,7 @@ __Original Source__: [Cooking in the Midwest](https://cookinginthemidwest.com/bl
 
 __Servings per Recipe__: 4
 
-__Description__: If you are looking for an easy and delicious dinner recipe these BBQ Cheeseburger Sliders won’t disappoint! These cheeseburger sliders are perfect for an appetizer, weeknight dinner, or game day snack!
+__Description__: These are a delicious find! Check out the original creator: Chef Luke from [Cooking in the Midwest](https://cookinginthemidwest.com/about/)
 
 ***
 
@@ -32,17 +32,15 @@ __Description__: If you are looking for an easy and delicious dinner recipe thes
 
 ## Instructions
 
-1. If you don't have any bacon leftover from breakfast, cook at least 6 pieces of bacon however you'd like! I prefer to bake it in the oven at 400&deg;F on a sheet pan lined with parchment paper. It usually bakes for about 25 minutes.
-2. Cook 1 lb of ground beef in a skillet over medium-high heat. Season with salt, pepper, garlic powder, onion powder, and smoked paprika. Once the ground beef is browned, drain any extra grease from the skillet. Add the minced garlic and BBQ sauce. Stir well.
-3. Slice King’s Hawaiian Original Sweet Rolls in half and put the bottom of the rolls in a greased baking dish or on a sheet pan.
-4. Add a layer of pepper jack cheese. Add the ground beef on top of the cheese. Top the ground beef with shredded colby jack cheese, some crumbled bacon, and crispy fried onions. Top with a little bit more BBQ sauce if desired!
-5. Put the tops of the slider rolls on and brush them with melted butter. Sprinkle sesame seeds on top. Bake at 350&deg;F for about 10-15 minutes. Enjoy!
-
-## Tips from the Chef, Luke from [Cooking in the Midwest](https://cookinginthemidwest.com/about/)
-
-- A tip for slicing King’s Hawaiian Roll Sliders is to try to keep your knuckles on the counter while cutting the rolls in half. Using a large serrated knife also helps!
-- I used pepper jack cheese and freshly shredded colby jack cheese for this recipe, but cheddar cheese or American cheese would also be good on these!
-- For some heat, add some jalapenos or use a spicy BBQ Sauce.
-- I used a 12 count package of King’s Hawaiian rolls and these sliders were loaded! To stretch ingredients and serve more people you could split the meat mixture between two packs of rolls and use more cheese to make more sliders.
-- I used French’s Crispy Fried onions in this recipe to keep it simple.
-- For more of an onion flavor you could also add a small chopped onion to the ground beef mixture.
+1. Cook your bacon however you prefer — we like baking it at 400°F on a 
+   parchment-lined sheet pan for about 25 minutes until crispy. Set aside.
+2. Brown the ground beef in a skillet over medium-high heat. Season with 
+   salt, pepper, garlic powder, onion powder, and smoked paprika. Drain 
+   the grease, then stir in the minced garlic and BBQ sauce.
+3. Grease a baking dish or sheet pan and lay down the bottom halves of 
+   the Hawaiian rolls.
+4. Layer on the pepper jack cheese, then the beef mixture. Top with 
+   shredded colby jack, crumbled bacon, and crispy fried onions. Add a 
+   little extra BBQ sauce if you're feeling it.
+5. Cap with the top buns, brush with melted butter, and sprinkle sesame 
+   seeds on top. Bake at 350°F for 10–15 minutes until golden. Dig in!

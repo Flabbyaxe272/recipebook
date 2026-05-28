@@ -35,9 +35,11 @@ __Description__: Rachel and I love this dish, due to it's flavor. We usually dou
 
 ## Instructions
 
-1. Combine the chili garlic sauce, soy sauce, and brown sugar in a bowl.
-2. Add the ground pork to a skillet and cook over medium heat until it is fully browned. Once browned, add the prepared dragon sauce and chopped peanuts. Allow the pork and peanuts to simmer in the sauce for another 5 minutes, or until the sauce has reduced by half.
-3. While the pork is browning, begin boiling water for your noodles. Once boiling, add your noodles and cook according to the package directions. Drain the noodles in a colander.
-4. Once the sauce has reduced and the noodles have drained, add the noodles to the skillet and toss until everything is combined and coated in sauce. Top with sliced green onions and serve!
+## Instructions
 
-[^pork]: The pork used is about 25% fat and did not need any extra oil in the skillet. It did not render a lot of grease while cooking, so no need to drain the skillet. If there is an excess amount of fat after browning, we suggest draining the meat and leaving 1 Tbsp fat in the skillet to combine with the dragon sauce.
+1. Mix together the soy sauce, chili garlic sauce, and brown sugar in a small bowl and set aside.
+2. Brown the ground pork in a skillet over medium heat. Once cooked through, pour in the dragon sauce and add the peanuts. Let it all simmer together for about 5 minutes until the sauce reduces by half.
+3. While the pork is cooking, boil water and cook the ramen noodles according to the package directions — toss the seasoning packets. Drain and set aside.
+4. Add the drained noodles to the skillet and toss until everything is coated in sauce. Top with sliced green onions and serve.
+
+[^pork]: Ground pork at around 25% fat works great here and shouldn't need extra oil. If your pork renders a lot of grease, drain most of it and leave about 1 Tbsp in the skillet before adding the sauce.

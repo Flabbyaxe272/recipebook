@@ -11,7 +11,7 @@ __Original Source__: [Certified Pastry Aficionado](https://www.certifiedpastryaf
 
 __Servings per Recipe__: 6
 
-__Description__: This is the most tender and most flavorful chicken you will ever make! The chicken gets marinated in a honey, lime, cilantro, garlic, and soy sauce marinade for a few hours, skewered, and then grilled. Super duper easy and always a hit! Perfect for serving a crowd.
+__Description__: Marinated in honey, lime, cilantro, and soy sauce then grilled on skewers. Easy to make ahead and always a crowd pleaser.
 
 ***
 
@@ -31,13 +31,13 @@ __Description__: This is the most tender and most flavorful chicken you will eve
 
 ## Instructions
 
-1. Slice chicken into even 1-inch cubes. Place chicken in a gallon-sized storage bag.
-2. Place remaining ingredients in a medium bowl and whisk to combine.
-3. Separate 1/4 cup of marinade and place in a small bowl. Store in fridge until cook time.
-4. Place marinade in storage bag with chicken and seal tightly. Shake chicken around to coat completely.
-5. Place bag on a plate or baking dish to catch any leaks. Place chicken in fridge to marinate for at least 3 hours or up to 8 hours.
-6. 30 minutes before cook time, soak your medium wooden skewers in water for 20 minutes to prevent them from catching fire during grilling. Remove from water and place on paper towel to dry slightly before skewing.
-7. Remove chicken from fridge. Grab 1 skewer and place 3-4 pieces of chicken on skewer, leaving about 1 inch of free space on both ends of skewer. Repeat with remaining chicken.
-8. Preheat grill to medium-high heat. Place all skewers on grill.
-9. After 3 minutes, spread remaining marinade on chicken and then flip so it can finish cooking. Do NOT brush marinade on cooked side to avoid contamination.
-10. Grill for another 3 minutes, or until chicken is done.
+## Instructions
+
+1. Cut the chicken into even 1-inch cubes and toss them into a gallon zip-lock bag.
+2. Whisk together the lime juice, honey, soy sauce, olive oil, garlic, cilantro, salt, and pepper in a bowl.
+3. Set aside ¼ cup of the marinade in a small bowl and refrigerate it for later. Pour the rest into the bag with the chicken, seal it up, and shake to coat.
+4. Lay the bag flat on a plate to catch any leaks and refrigerate for at least 3 hours, up to 8 hours.
+5. About 30 minutes before cooking, soak your wooden skewers in water for 20 minutes so they don't catch fire on the grill. Pat them dry before using.
+6. Thread 3-4 pieces of chicken onto each skewer, leaving about an inch free on each end.
+7. Preheat the grill to medium-high. Lay the skewers on and cook for 3 minutes.
+8. Brush the reserved marinade on the uncooked side, then flip. Grill another 3 minutes until cooked through. Don't brush marinade on the already-cooked side to avoid cross contamination.

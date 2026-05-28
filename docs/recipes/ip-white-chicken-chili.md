@@ -13,8 +13,7 @@ __Original Source__: [Olena from iFoodReal.com](https://ifoodreal.com/instant-po
 
 __Servings per Recipe__: 5 bowls
 
-__Description__: This high protien, kid-friendly, gluten-free recipe is a fantastic dinner. Make sure to check out Olena's website, [https://ifoodreal.com/](https://ifoodreal.com/), for more fantastic recipes like this one!
-[^footnotes]
+__Description__: High protein, gluten-free, and kid-friendly. A great weeknight dinner that comes together fast in the Instant Pot.
 
 ***
 
@@ -41,18 +40,20 @@ __Description__: This high protien, kid-friendly, gluten-free recipe is a fantas
 
 ## Instructions
 
-1. In Instant Pot, add onion, beans, corn, broth, green chiles, cumin, chili powder, garlic powder, salt, pepper and lay chicken on top. No need to stir.
-2. Close the lid, set pressure vent to Sealing and press Pressure Cook on High or Manual for 20 minutes.
-3. After allow pressure to come down naturally for 10 minutes and release remaining pressure using Quick Release by turning pressure valve to Venting position, which takes 2 minutes.
-4. Open the lid, remove chicken and shred with 2 forks.
-5. Return chicken to the pot along with cilantro, Greek yogurt, cream cheese and lime juice. Stir well.
-6. Serve hot with your favorite toppings like tortilla chips, diced jalapenos and avocado, more yogurt or sour cream, hot sauce, and etc.
+1. Add the onion, beans, corn, broth, green chiles, and all the spices to the Instant Pot. Lay the chicken breasts on top — no need to stir.
+2. Close and seal the lid. Set to Pressure Cook on High for 20 minutes.
+3. Once done, let the pressure release naturally for 10 minutes, then flip the valve to Venting to release the rest.
+4. Open the lid and pull out the chicken. Shred it with two forks.
+5. Return the shredded chicken to the pot and stir in the cilantro, Greek yogurt, cream cheese, and lime juice until everything is combined and creamy.
+6. Serve hot with tortilla chips, avocado, extra yogurt or sour cream, and whatever toppings you like.
 
-## Notes
+## Farris Family Notes
 
-- __Store__: Refrigerate up to 5 days or freeze for up to 3 months. Thaw in the fridge overnight, then reheat on a stovetop covered while simmering on low.
-- __Make ahead__: Combine and refrigerate ingredients right in inner pot of Instant Pot covered for up to 2 days. Can add chicken right before cooking.
-- __Freezer meal__: Add all ingredients from step 1 (minus the broth) to a gallon Ziploc bag, let out as much air as possible, seal and freeze for up to 3 months. Cook from frozen + broth as per recipe.
-- __Dried beans__: Use 1 cup dried and rinsed white beans with 2 cups of stock and cook chili for 35 minutes.
-- __Frozen chicken breasts__: You can add them right in, no need to thaw but make sure they are separated. Same cook time.
-- __For 3 Quart Instant Pot__: Cut ingredients in half and keep same cook time.
+- Leftovers keep in the fridge for up to 5 days or freeze well for up 
+  to 3 months. Reheat on the stovetop on low.
+- You can prep everything the night before right in the Instant Pot 
+  insert and refrigerate overnight — just cook it when ready.
+- Frozen chicken breasts work fine, just make sure they're separated. 
+  Same cook time applies.
+- For a 3 Quart Instant Pot, cut everything in half and keep the same 
+  cook time.

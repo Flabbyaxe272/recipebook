@@ -9,7 +9,7 @@ __Original Source__: [CDKitchen](https://www.cdkitchen.com/recipes/recs/146/Home
 
 __Servings per Recipe__: 7 c.
 
-__Description__: A delicious homemade granola recipe that can be eaten as a snack, mixed with yogurt for breakfast, used as an ice cream topping, or in any recipe calling for granola. Takes about 1-2 hours to make.
+__Description__: Homemade granola that's great as a snack, on yogurt, or as an ice cream topping. Makes about 7 cups and freezes well.
 
 ***
 
@@ -30,29 +30,18 @@ __Description__: A delicious homemade granola recipe that can be eaten as a snac
 
 ## Instructions
 
-1. Preheat the oven to 300&deg;F. Have a 15x10 rimmed baking sheet ready.
-2. Combine the oil and honey in a saucepan over low heat. Stir until combined. Whisk in the vanilla. Remove from the heat and set aside.
-3. In a bowl, combine the oats, almonds, brown sugar, salt, and cinnamon. Mix well. Pour the honey mixture evenly over the oat mixture. Stir with a wooden spoon until everything is coated.
-4. Spread the granola out in an even layer on the baking sheet. Place in the oven and bake at 300&deg;F for 40 minutes, stirring gently every 10 minutes.
-5. Remove the baking sheet from the oven and let the granola cool completely on the baking sheet.
-6. Combine the cooled granola with the dried fruit (and chocolate chips, if using). Serve immediately or store in an airtight container for up to 1 week at room temperature (or freeze for up to 3 months).
+1. Preheat the oven to 300°F and have a 15x10 rimmed baking sheet ready.
+2. Melt the oil and honey together in a saucepan over low heat, stir to combine, then whisk in the vanilla. Remove from heat.
+3. In a large bowl, mix together the oats, almonds, brown sugar, salt, and cinnamon. Pour the honey mixture over the top and stir until everything is evenly coated.
+4. Spread the mixture out in an even layer on the baking sheet. Bake at 300°F for 40 minutes, stirring gently every 10 minutes.
+5. Pull it out of the oven and let it cool completely on the pan — don't skip this, it's how it gets crunchy.
+6. Once cooled, mix in the dried fruit and chocolate chips if using. Store in an airtight container at room temperature for up to a week, or freeze for up to 3 months.
 
 ***
 
-## FAQs
+## Farris Family Notes
 
-### Can I use other nuts or dried fruit?
-
-Just make sure to keep the amounts in the same ratio. For example, if you use other dried fruit, chop it up to equal the same amount called for of raisins.
-
-### Is homemade granola cheaper than store bought?
-
-Buying the ingredients in larger or bulk packaging will definitely make this cheaper per ounce than buying it in the store. However, in some cases it may be cheaper to buy a small package of granola than making it at home. This recipe is addicting so we're pretty sure you'll want to make it a lot!
-
-### Can I use other oil than vegetable oil?
-
-Yes, you can use other oils. Many people prefer to use coconut oil or avocado oil instead.
-
-### I can't have honey, what else can I use in this recipe?
-
-If you are allowed to have molasses, maple syrup, or agave, any of those should work.
+- Dried cranberries work great in place of raisins.
+- Coconut oil is a good swap for vegetable oil and adds a nice flavor.
+- Maple syrup works well as a honey substitute.
+- Don't rush the cooling step — that's what gives it the crunch.

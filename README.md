@@ -16,7 +16,7 @@ I'm still learning so I don't know how this project will go. But if it does star
 
 ## Contributing
 
-So I use [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/), basically taking a simple document structure (Markdown) and turning it into a static webpage with features like search. 
+So I use [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/), basically taking a simple document structure (Markdown) and turning it into a static webpage with features like search.
 
 To contribute to the recipes, use the [Recipe Template](docs/recipes/.templates/Recipe%20Template.md) and save with title name. You can leave out unnecessary descriptors ("the", "at", "in") so it's shortened.
 

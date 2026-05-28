@@ -13,7 +13,8 @@ __Original Source__: [Jen from Midwest Life and Sytle](https://www.midwestlifean
 
 __Servings per Recipe__: 8
 
-__Description__: Made with cuts of tender beef and loaded with hearty vegetables, this easy crockpot Irish beef stew is the perfect cozy dinnertime meal.
+__Description__: A hearty, set-it-and-forget-it crockpot stew loaded 
+with beef and vegetables. Great for a cold night.
 
 ***
 
@@ -40,8 +41,8 @@ __Description__: Made with cuts of tender beef and loaded with hearty vegetables
 
 ## Instructions
 
-1. Add olive oil to a saute pan and heat over medium-high heat. Once hot, add in the beef stew meat, and season with salt and pepper. Sear the beef on all sides, for about 3 minutes, until browned.
-2. Add the beef to the crockpot, along with the onion, potatoes, and carrots.
-3. In a large mixing bowl, whisk together the beef broth, minced garlic, tomato paste, Worcestershire sauce, and thyme. Pour over the beef and vegetable mixture and add the bay leaf on top. Cover and cook on low for 6 to 7 hours or on high for 3 to 4 hours.
-4. 20 minutes before serving, remove the bay leaf. Combine the cornstarch and 3 tbsp water in a small bowl and pour into the beef stew. Stir to combine.
-5. Add in the frozen peas and cover again. Once the peas are heated through and the stew has thickened, garnish with fresh parsley and serve.
+1. Heat olive oil in a pan over medium-high heat. Season the beef with salt and pepper and sear on all sides for about 3 minutes until browned.
+2. Transfer the beef to the crockpot and add the onion, potatoes, and carrots on top.
+3. Whisk together the beef broth, garlic, tomato paste, Worcestershire sauce, and thyme in a bowl, then pour it over everything. Tuck the bay leaf in. Cook on low for 6-7 hours or high for 3-4 hours.
+4. About 20 minutes before serving, fish out the bay leaf. Mix the cornstarch and water together and stir it into the stew to thicken it up.
+5. Toss in the frozen peas and cover until they're heated through. Garnish with fresh parsley and serve.
