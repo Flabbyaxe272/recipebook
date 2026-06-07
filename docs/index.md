@@ -1,25 +1,65 @@
 ---
-title: Farris Fam Recipes
+hide:
+  - navigation
+  - toc
 ---
 
-<!-- markdownlint-disable MD026 -->
-<!-- markdownlint-disable MD025 -->
-# Welcome to the Farris Family Recipe Book!
-<!-- markdownlint-disable MD026 -->
-<!-- markdownlint-disable MD025 -->
+<div class="ffr-hero">
+  <div class="ffr-logo-wrap">
+    <img src="../img/farrisfamrecipes.png" alt="Farris Family Recipes Logo" class="ffr-logo" />
+  </div>
+  <h1 class="ffr-title">Farris Family Recipe Book</h1>
+  <p class="ffr-subtitle">Home-cooked meals, lovingly collected and altitude-adjusted.</p>
+  <div class="ffr-elevation-tag">
+    <span>▲</span> 4,705 ft above sea level
+  </div>
+  <div class="ffr-cta-row">
+    <a href="recipes/" class="ffr-btn ffr-btn--primary">Browse Recipes</a>
+    <a href="tips/" class="ffr-btn ffr-btn--ghost">Cooking Tips</a>
+  </div>
+</div>
 
-Click the logo to go to the Recipies!
+<div class="ffr-rule"></div>
 
-[![Family logo](img/farrisfamrecipes.png)](recipes/index.md)
+<!-- WIP for now
+<div class="ffr-cards">
+  <div class="ffr-card">
+    <div class="ffr-card-icon">🥩</div>
+    <div class="ffr-card-body">
+      <strong>Mains</strong>
+      <p>Weeknight staples and weekend showstoppers.</p>
+    </div>
+  </div>
+  <div class="ffr-card">
+    <div class="ffr-card-icon">🥗</div>
+    <div class="ffr-card-body">
+      <strong>Sides &amp; Salads</strong>
+      <p>The supporting cast that steals the show.</p>
+    </div>
+  </div>
+  <div class="ffr-card">
+    <div class="ffr-card-icon">🍞</div>
+    <div class="ffr-card-body">
+      <strong>Breads &amp; Baking</strong>
+      <p>High-altitude baking — the footnotes matter here.</p>
+    </div>
+  </div>
+  <div class="ffr-card">
+    <div class="ffr-card-icon">🍮</div>
+    <div class="ffr-card-body">
+      <strong>Desserts</strong>
+      <p>Sweet endings, adjusted for the altitude.</p>
+    </div>
+  </div>
+</div>
 
-This is an online collection of recipes that is meant to be shared within the Farris Family and friends!
+<div class="ffr-rule"></div>
+-->
 
-We find things from the internet or family recipes, and we put them as a collection here for ease of use.
-
-Use the Recipes tab to browse, or search your favorites to get to them instantly!
-
-This is really helpful if you're cooking, and you don't have the counterspace for a recipe book.
-
-If you have suggestions on what you would like to see in this recipe book, please add an item in the Todoist board.
-
-Please refer to the [About](about.md) page if you don't know if you have access to the Todoist board.
+<div class="ffr-about">
+  <p>
+    Recipes sourced from family, friends, and trusted cookbooks —
+    then adapted for life at <strong>4,705 ft</strong>. Look for footnotes
+    throughout where altitude changes things.
+  </p>
+</div>

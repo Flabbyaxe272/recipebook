@@ -1,46 +1,45 @@
 site_name: "Farris Family Recipe Book"
 theme:
   name: "material"
-# Logo
-  icon:
-    logo: fontawesome/solid/spoon
+  custom_dir: overrides
+  logo: img/farrisfamrecipes.png
   favicon: img/spoon-solid.svg
-# Features
   features:
     - navigation.tabs
     - navigation.top
     - navigation.path
     - navigation.indexes
     - search.suggest
-#   - search.highlight   # Didn't like the highlight as it persisted, never went away with a page, even after reloading.
     - content.footnote.tooltips
   palette:
-    # Palette toggle for automatic mode
+    # Auto mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
-    # Palette toggle for light mode
+    # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
-      primary: blue
-      accent: indigo
+      scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
+    # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: red
-      accent: orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
 
+extra_css:
+  - stylesheets/home.css
 
-# Extentions
+# Extensions
 markdown_extensions:
   - footnotes
   - attr_list
@@ -48,7 +47,6 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-# Plug-ins
 plugins:
   - meta:
       enabled: true

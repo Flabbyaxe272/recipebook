@@ -1,0 +1,266 @@
+/* ============================================================
+   Farris Family Recipe Book — Custom Homepage Styles
+   File location: docs/stylesheets/home.css
+   Supports: light mode, dark mode (slate), auto toggle
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* ── Color tokens — light mode (Material "default" scheme) ── */
+[data-md-color-scheme="default"] {
+  --ffr-hero-bg:      #fdf8f4;
+  --ffr-surface:      #ffffff;
+  --ffr-border:       #e8e0d8;
+  --ffr-red:          #c0392b;
+  --ffr-red-soft:     rgba(192, 57, 43, 0.10);
+  --ffr-red-glow:     rgba(192, 57, 43, 0.20);
+  --ffr-text:         #1a1410;
+  --ffr-muted:        #7a6f68;
+  --ffr-btn-ghost-bg: transparent;
+  --ffr-btn-ghost-border: #c0392b;
+  --ffr-btn-ghost-text:   #c0392b;
+  --ffr-shadow:       0 4px 24px rgba(0,0,0,0.08);
+  --ffr-shadow-hover: 0 8px 32px rgba(0,0,0,0.14);
+}
+
+/* ── Color tokens — dark mode (Material "slate" scheme) ── */
+[data-md-color-scheme="slate"] {
+  --ffr-hero-bg:      #141414;
+  --ffr-surface:      #1e1e1e;
+  --ffr-border:       #2e2e2e;
+  --ffr-red:          #e05a4a;
+  --ffr-red-soft:     rgba(224, 90, 74, 0.12);
+  --ffr-red-glow:     rgba(224, 90, 74, 0.30);
+  --ffr-text:         #f0ece6;
+  --ffr-muted:        #9a9490;
+  --ffr-btn-ghost-bg: transparent;
+  --ffr-btn-ghost-border: #e05a4a;
+  --ffr-btn-ghost-text:   #e05a4a;
+  --ffr-shadow:       0 4px 24px rgba(0,0,0,0.30);
+  --ffr-shadow-hover: 0 8px 32px rgba(0,0,0,0.50);
+}
+
+/* ── Typography ── */
+.md-typeset {
+  font-family: 'Lora', Georgia, serif;
+}
+
+/* ── Suppress the auto-generated h1 MkDocs inserts on homepage ── */
+.md-typeset h1:first-child {
+  display: none;
+}
+
+/* ── Full-bleed hero background ── */
+.ffr-hero {
+  background: var(--ffr-hero-bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 4.5rem 1.5rem 3rem;
+  margin: -0.8rem -1.6rem 0;          /* bleed past md-content padding */
+  animation: ffr-fade-up 0.65s ease both;
+}
+
+/* ── Logo ── */
+.ffr-logo-wrap {
+  margin-bottom: 1.75rem;
+}
+
+.ffr-logo {
+  width: clamp(100px, 18vw, 160px);
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid var(--ffr-border);
+  box-shadow: 0 0 36px var(--ffr-red-glow);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  display: block;
+}
+
+.ffr-logo:hover {
+  box-shadow: 0 0 56px var(--ffr-red-glow);
+  transform: scale(1.04);
+}
+
+/* ── Hero text ── */
+.ffr-title {
+  font-family: 'Playfair Display', Georgia, serif !important;
+  font-size: clamp(2rem, 6vw, 3.4rem) !important;
+  font-weight: 900 !important;
+  letter-spacing: -0.02em;
+  color: var(--ffr-text) !important;
+  margin: 0 0 0.6rem !important;
+  border: none !important;
+  line-height: 1.1;
+}
+
+.ffr-subtitle {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--ffr-muted);
+  margin: 0 0 1.1rem;
+  max-width: 500px;
+}
+
+/* ── Elevation badge ── */
+.ffr-elevation-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  background: var(--ffr-red-soft);
+  border: 1px solid var(--ffr-red);
+  color: var(--ffr-red);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.32em 0.9em;
+  border-radius: 2em;
+  margin-bottom: 1.75rem;
+}
+
+/* ── CTA buttons ── */
+.ffr-cta-row {
+  display: flex;
+  gap: 0.85rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ffr-btn {
+  display: inline-block;
+  font-family: 'Lora', Georgia, serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding: 0.6em 1.6em;
+  border-radius: 3em;
+  text-decoration: none !important;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+}
+
+.ffr-btn--primary {
+  background: var(--ffr-red);
+  color: #fff !important;
+  box-shadow: 0 2px 12px var(--ffr-red-glow);
+}
+
+.ffr-btn--primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px var(--ffr-red-glow);
+}
+
+.ffr-btn--ghost {
+  background: var(--ffr-btn-ghost-bg);
+  color: var(--ffr-btn-ghost-text) !important;
+  border: 1.5px solid var(--ffr-btn-ghost-border);
+}
+
+.ffr-btn--ghost:hover {
+  background: var(--ffr-red-soft);
+  transform: translateY(-2px);
+}
+
+/* ── Divider ── */
+.ffr-rule {
+  width: 44px;
+  height: 2px;
+  background: var(--ffr-red);
+  margin: 2.75rem auto;
+  border-radius: 1px;
+  opacity: 0.65;
+}
+
+/* ── Category cards ── */
+.ffr-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1rem;
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 0.5rem;
+  animation: ffr-fade-up 0.8s 0.12s ease both;
+}
+
+.ffr-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  background: var(--ffr-surface);
+  border: 1px solid var(--ffr-border);
+  border-radius: 10px;
+  padding: 1.2rem 1.25rem;
+  box-shadow: var(--ffr-shadow);
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ffr-card:hover {
+  border-color: var(--ffr-red);
+  transform: translateY(-3px);
+  box-shadow: var(--ffr-shadow-hover);
+}
+
+.ffr-card-icon {
+  font-size: 1.65rem;
+  line-height: 1;
+  flex-shrink: 0;
+  padding-top: 0.1rem;
+}
+
+.ffr-card-body strong {
+  display: block;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 0.98rem;
+  font-weight: 700;
+  color: var(--ffr-text);
+  margin-bottom: 0.3rem;
+}
+
+.ffr-card-body p {
+  font-size: 0.84rem;
+  color: var(--ffr-muted);
+  margin: 0;
+  line-height: 1.55;
+}
+
+/* ── About blurb ── */
+.ffr-about {
+  max-width: 560px;
+  margin: 0 auto 4rem;
+  text-align: center;
+  padding: 0 1rem;
+  animation: ffr-fade-up 0.9s 0.22s ease both;
+}
+
+.ffr-about p {
+  font-size: 0.9rem;
+  color: var(--ffr-muted);
+  line-height: 1.8;
+  margin: 0;
+}
+
+.ffr-about strong {
+  color: var(--ffr-text);
+  font-weight: 600;
+}
+
+/* ── Entrance animation ── */
+@keyframes ffr-fade-up {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Mobile ── */
+@media (max-width: 600px) {
+  .ffr-hero {
+    padding: 3rem 1rem 2.5rem;
+    margin: -0.8rem -0.8rem 0;
+  }
+  .ffr-cards {
+    grid-template-columns: 1fr;
+  }
+  .ffr-cta-row {
+    flex-direction: column;
+    align-items: center;
+  }
+}
