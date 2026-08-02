@@ -37,7 +37,7 @@ __Description__: Cookie dough, Oreos, fudge brownies, caramel, and sea salt all 
 6. Pour the brownie batter over the Oreo layer.
 7. Scatter the white chocolate chips over the top.
 8. Crush the remaining Oreos into chunks and sprinkle them on top.
-9. Bake uncovered for 50 minutes or until a toothpick comes out clean.
+9. Bake uncovered for 50 minutes or until a toothpick comes out clean.[^cooktime]
 10. Let them cool completely in the pan.
 11. Lift the whole thing out using the foil or parchment. Drizzle with caramel sauce and finish with a sprinkle of fleur de sel.
 12. Cut into 16 squares. These are meant to be gooey so have a fork handy!
