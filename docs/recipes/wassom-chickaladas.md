@@ -11,7 +11,7 @@ __Original Source__: Kelly McGuire (a dear friend of the Wassom Family)
 
 __Servings per Recipe__: 20 enchiladas
 
-__Description__: "Chickaladas", as Rachel referred to them when she was young, is a family favorite, especially Rachel! But we never make it with the olives.
+__Description__: "Chickaladas", as Rachel referred to them when she was young, is a family favorite, especially Rachel! But we never make it with the olives. Best paired with [Spanish Rice](spanish-rice.md).
 
 ***
 
