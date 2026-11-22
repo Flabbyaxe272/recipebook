@@ -1,5 +1,7 @@
 # About
 
+<div class="gravatar-hovercard__header-image"><img class="gravatar-hovercard__header-image-img" src="https://0.gravatar.com/avatar/4349652d894c6812b9f9d637db8b712972a8866a4ad581497321b25b706bbf4e?s=256&amp;d=initials" alt=""></div>
+
 I'm Justin, the curator of this recipe book site.
 This recipebook was built to share among my family, the Farris' and their
 extended family and friends.
