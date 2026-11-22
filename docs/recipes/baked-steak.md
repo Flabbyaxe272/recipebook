@@ -11,7 +11,9 @@ __Original Source__: Wassom Cookbook[^contrib]
 
 __Servings per Recipe__: 6
 
-__Description__: "A family favorite that's almost too good to be true!" Even though saying the name of this dish is a sin in the sight of the Grilling Gods, this is really amazing to taste. This dish keeps the steak juicy and delicious to enjoy.
+__Description__: "A family favorite that's almost too good to be true!" Even though saying the 
+name of this dish is a sin in the sight of the Grilling Gods, this is really amazing to taste. 
+This dish keeps the steak juicy and delicious to enjoy.
 
 ***
 
@@ -51,5 +53,7 @@ __Description__: "A family favorite that's almost too good to be true!" Even tho
 [^steak]: You can also substitute for a singular 3" thick boneless sirloin steak, weighing about 3 - 4 lbs.
 [^cgs]: Recipe calls for Lee Kum Kee brand, but you're welcome to try whatever.
 [^mushroom]:  Rachel thinks that the Mushroom Sauce would be tasty without the Mushrooms XD
-[^time]: While the original recipe says 30 minutes, we need to adjust due to altitude. The recipe was created in Texas, closer to sea level at 630'. At the time of this writing, we're at 4,705', so a little higher :)
+[^time]: While the original recipe says 30 minutes, we need to adjust due to altitude. 
+   The recipe was created in Texas, closer to sea level at 630'. At the time of this writing, we're 
+   at 4,705', so a little higher :)
 [^served]: Momma Wassom used to serve it with garlic mashed potatoes. Would highly recommend.
